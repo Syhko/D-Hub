@@ -1,0 +1,903 @@
+[
+    {
+      "id": 0,
+      "title": "Generic Steel Chicken",
+      "department": "Computers",
+      "shop": "Kertzmann - Stokes",
+      "originalPrice": "175.00",
+      "discountedPrice": 145.990645064943,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 1,
+      "title": "Awesome Frozen Tuna",
+      "department": "Kids",
+      "shop": "Mraz - Grant",
+      "originalPrice": "65.00",
+      "discountedPrice": 54.20378513699525,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Tuna"
+    },
+    {
+      "id": 2,
+      "title": "Incredible Concrete Tuna",
+      "department": "Music",
+      "shop": "Blanda, Lemke and Hamill",
+      "originalPrice": "584.00",
+      "discountedPrice": 5.92193492422375,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Tuna"
+    },
+    {
+      "id": 3,
+      "title": "Awesome Wooden Keyboard",
+      "department": "Music",
+      "shop": "Reilly - Gorczany",
+      "originalPrice": "796.00",
+      "discountedPrice": 672.8382061521645,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 4,
+      "title": "Rustic Steel Pizza",
+      "department": "Computers",
+      "shop": "Braun, Herman and Rippin",
+      "originalPrice": "103.00",
+      "discountedPrice": 24.133078739299677,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pizza"
+    },
+    {
+      "id": 5,
+      "title": "Fantastic Metal Gloves",
+      "department": "Health",
+      "shop": "Kuhic and Sons",
+      "originalPrice": "222.00",
+      "discountedPrice": 199.64010941646848,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Gloves"
+    },
+    {
+      "id": 6,
+      "title": "Sleek Plastic Towels",
+      "department": "Health",
+      "shop": "Considine - Lind",
+      "originalPrice": "165.00",
+      "discountedPrice": 143.75567933083306,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Towels"
+    },
+    {
+      "id": 7,
+      "title": "Sleek Soft Keyboard",
+      "department": "Books",
+      "shop": "Hand Inc",
+      "originalPrice": "91.00",
+      "discountedPrice": 60.71328039164994,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 8,
+      "title": "Tasty Granite Computer",
+      "department": "Clothing",
+      "shop": "Howell - Funk",
+      "originalPrice": "363.00",
+      "discountedPrice": 251.76739457191755,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 9,
+      "title": "Gorgeous Plastic Soap",
+      "department": "Industrial",
+      "shop": "O'Conner LLC",
+      "originalPrice": "211.00",
+      "discountedPrice": 13.240204444286656,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Soap"
+    },
+    {
+      "id": 10,
+      "title": "Awesome Plastic Shoes",
+      "department": "Baby",
+      "shop": "Altenwerth - Satterfield",
+      "originalPrice": "733.00",
+      "discountedPrice": 554.1988313027761,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Shoes"
+    },
+    {
+      "id": 11,
+      "title": "Small Frozen Car",
+      "department": "Jewelery",
+      "shop": "Okuneva, Lynch and Heaney",
+      "originalPrice": "915.00",
+      "discountedPrice": 872.1039472535215,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Car"
+    },
+    {
+      "id": 12,
+      "title": "Rustic Rubber Towels",
+      "department": "Beauty",
+      "shop": "Jones Inc",
+      "originalPrice": "649.00",
+      "discountedPrice": 356.91123531473386,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Towels"
+    },
+    {
+      "id": 13,
+      "title": "Fantastic Wooden Table",
+      "department": "Jewelery",
+      "shop": "Zieme - Terry",
+      "originalPrice": "937.00",
+      "discountedPrice": 231.90078137715597,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Table"
+    },
+    {
+      "id": 14,
+      "title": "Intelligent Frozen Computer",
+      "department": "Toys",
+      "shop": "Schuppe - Reilly",
+      "originalPrice": "865.00",
+      "discountedPrice": 372.6184280634382,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 15,
+      "title": "Generic Plastic Ball",
+      "department": "Movies",
+      "shop": "Dare - Swift",
+      "originalPrice": "108.00",
+      "discountedPrice": 1.009166902636343,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Ball"
+    },
+    {
+      "id": 16,
+      "title": "Sleek Metal Sausages",
+      "department": "Toys",
+      "shop": "Roob and Sons",
+      "originalPrice": "427.00",
+      "discountedPrice": 59.85122945588453,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 17,
+      "title": "Refined Metal Chicken",
+      "department": "Jewelery",
+      "shop": "Price and Sons",
+      "originalPrice": "208.00",
+      "discountedPrice": 36.43831740574169,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 18,
+      "title": "Handmade Cotton Bike",
+      "department": "Jewelery",
+      "shop": "Schaden - Sauer",
+      "originalPrice": "940.00",
+      "discountedPrice": 781.17804676106,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 19,
+      "title": "Awesome Granite Chair",
+      "department": "Electronics",
+      "shop": "Heathcote - Johnson",
+      "originalPrice": "624.00",
+      "discountedPrice": 320.0648016444469,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 20,
+      "title": "Refined Metal Cheese",
+      "department": "Books",
+      "shop": "Wintheiser - Hessel",
+      "originalPrice": "523.00",
+      "discountedPrice": 301.91578759580307,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Cheese"
+    },
+    {
+      "id": 21,
+      "title": "Intelligent Concrete Chair",
+      "department": "Grocery",
+      "shop": "Hammes - Boehm",
+      "originalPrice": "79.00",
+      "discountedPrice": 26.435231423443216,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 22,
+      "title": "Gorgeous Granite Cheese",
+      "department": "Computers",
+      "shop": "Moore - Mann",
+      "originalPrice": "470.00",
+      "discountedPrice": 247.69640505660038,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Cheese"
+    },
+    {
+      "id": 23,
+      "title": "Small Metal Hat",
+      "department": "Industrial",
+      "shop": "Cartwright, Willms and Anderson",
+      "originalPrice": "375.00",
+      "discountedPrice": 4.3117928522534985,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 24,
+      "title": "Refined Plastic Soap",
+      "department": "Shoes",
+      "shop": "Larkin - Tremblay",
+      "originalPrice": "31.00",
+      "discountedPrice": 11.944050281649565,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Soap"
+    },
+    {
+      "id": 25,
+      "title": "Handmade Frozen Keyboard",
+      "department": "Clothing",
+      "shop": "Rolfson and Sons",
+      "originalPrice": "383.00",
+      "discountedPrice": 239.81382157114726,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 26,
+      "title": "Sleek Plastic Pants",
+      "department": "Electronics",
+      "shop": "Grimes - Prohaska",
+      "originalPrice": "963.00",
+      "discountedPrice": 788.506719805829,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pants"
+    },
+    {
+      "id": 27,
+      "title": "Awesome Steel Table",
+      "department": "Movies",
+      "shop": "Carter Group",
+      "originalPrice": "929.00",
+      "discountedPrice": 823.0583416304722,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Table"
+    },
+    {
+      "id": 28,
+      "title": "Rustic Concrete Shirt",
+      "department": "Sports",
+      "shop": "Shields and Sons",
+      "originalPrice": "884.00",
+      "discountedPrice": 411.51093863413075,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Shirt"
+    },
+    {
+      "id": 29,
+      "title": "Sleek Rubber Mouse",
+      "department": "Games",
+      "shop": "Walsh LLC",
+      "originalPrice": "122.00",
+      "discountedPrice": 114.14251734218624,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Mouse"
+    },
+    {
+      "id": 30,
+      "title": "Gorgeous Granite Pizza",
+      "department": "Kids",
+      "shop": "Carter - Pfeffer",
+      "originalPrice": "506.00",
+      "discountedPrice": 363.429707207749,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pizza"
+    },
+    {
+      "id": 31,
+      "title": "Small Steel Salad",
+      "department": "Beauty",
+      "shop": "Tromp - Krajcik",
+      "originalPrice": "628.00",
+      "discountedPrice": 151.67559808704988,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Salad"
+    },
+    {
+      "id": 32,
+      "title": "Awesome Wooden Sausages",
+      "department": "Kids",
+      "shop": "Kiehn Group",
+      "originalPrice": "458.00",
+      "discountedPrice": 109.05442530131218,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 33,
+      "title": "Generic Frozen Pants",
+      "department": "Toys",
+      "shop": "Wisozk, Ernser and Ebert",
+      "originalPrice": "605.00",
+      "discountedPrice": 245.72507462293194,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pants"
+    },
+    {
+      "id": 34,
+      "title": "Small Fresh Keyboard",
+      "department": "Toys",
+      "shop": "Ortiz - McGlynn",
+      "originalPrice": "263.00",
+      "discountedPrice": 150.9490063144627,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 35,
+      "title": "Practical Plastic Computer",
+      "department": "Music",
+      "shop": "Torp - Luettgen",
+      "originalPrice": "739.00",
+      "discountedPrice": 84.4005314622973,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 36,
+      "title": "Gorgeous Metal Cheese",
+      "department": "Tools",
+      "shop": "Feest and Sons",
+      "originalPrice": "455.00",
+      "discountedPrice": 77.78865441725402,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Cheese"
+    },
+    {
+      "id": 37,
+      "title": "Licensed Metal Sausages",
+      "department": "Sports",
+      "shop": "Will - Kutch",
+      "originalPrice": "145.00",
+      "discountedPrice": 136.12674631311793,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 38,
+      "title": "Awesome Concrete Bacon",
+      "department": "Tools",
+      "shop": "Huels - Sanford",
+      "originalPrice": "226.00",
+      "discountedPrice": 175.12911551135383,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bacon"
+    },
+    {
+      "id": 39,
+      "title": "Fantastic Granite Computer",
+      "department": "Home",
+      "shop": "Harris, Gibson and Huels",
+      "originalPrice": "7.00",
+      "discountedPrice": 0.9599970932672632,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 40,
+      "title": "Intelligent Plastic Tuna",
+      "department": "Health",
+      "shop": "Miller, Bayer and Hoppe",
+      "originalPrice": "321.00",
+      "discountedPrice": 197.77597696975943,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Tuna"
+    },
+    {
+      "id": 41,
+      "title": "Small Concrete Hat",
+      "department": "Music",
+      "shop": "Heidenreich, Ferry and Kub",
+      "originalPrice": "984.00",
+      "discountedPrice": 493.41899790269844,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 42,
+      "title": "Rustic Fresh Tuna",
+      "department": "Industrial",
+      "shop": "Koss, Feeney and Weimann",
+      "originalPrice": "482.00",
+      "discountedPrice": 271.50780876079114,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Tuna"
+    },
+    {
+      "id": 43,
+      "title": "Handcrafted Granite Car",
+      "department": "Computers",
+      "shop": "Thiel and Sons",
+      "originalPrice": "91.00",
+      "discountedPrice": 4.762671662216491,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Car"
+    },
+    {
+      "id": 44,
+      "title": "Tasty Rubber Chair",
+      "department": "Grocery",
+      "shop": "Douglas, Lindgren and Funk",
+      "originalPrice": "270.00",
+      "discountedPrice": 236.9715120042387,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 45,
+      "title": "Fantastic Concrete Cheese",
+      "department": "Tools",
+      "shop": "Hoeger LLC",
+      "originalPrice": "194.00",
+      "discountedPrice": 177.71901282567305,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Cheese"
+    },
+    {
+      "id": 46,
+      "title": "Refined Granite Computer",
+      "department": "Industrial",
+      "shop": "Harris Inc",
+      "originalPrice": "683.00",
+      "discountedPrice": 33.660874140703164,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 47,
+      "title": "Intelligent Granite Mouse",
+      "department": "Tools",
+      "shop": "Kozey - Kerluke",
+      "originalPrice": "950.00",
+      "discountedPrice": 722.6909881454932,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Mouse"
+    },
+    {
+      "id": 48,
+      "title": "Small Fresh Fish",
+      "department": "Shoes",
+      "shop": "Blanda, Ebert and Brown",
+      "originalPrice": "179.00",
+      "discountedPrice": 124.09225138048353,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Fish"
+    },
+    {
+      "id": 49,
+      "title": "Incredible Rubber Hat",
+      "department": "Tools",
+      "shop": "Hayes - Schmidt",
+      "originalPrice": "812.00",
+      "discountedPrice": 769.0698227459501,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 50,
+      "title": "Tasty Metal Keyboard",
+      "department": "Automotive",
+      "shop": "Hessel, Jacobs and Sporer",
+      "originalPrice": "268.00",
+      "discountedPrice": 20.908709611744634,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 51,
+      "title": "Rustic Rubber Salad",
+      "department": "Tools",
+      "shop": "Fritsch, Braun and Larson",
+      "originalPrice": "731.00",
+      "discountedPrice": 657.931727146858,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Salad"
+    },
+    {
+      "id": 52,
+      "title": "Ergonomic Rubber Car",
+      "department": "Clothing",
+      "shop": "Walker, Ortiz and Streich",
+      "originalPrice": "259.00",
+      "discountedPrice": 188.2860031370448,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Car"
+    },
+    {
+      "id": 53,
+      "title": "Ergonomic Soft Shirt",
+      "department": "Garden",
+      "shop": "Graham - Swift",
+      "originalPrice": "799.00",
+      "discountedPrice": 434.60858568258993,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Shirt"
+    },
+    {
+      "id": 54,
+      "title": "Rustic Wooden Chair",
+      "department": "Automotive",
+      "shop": "Kutch - Block",
+      "originalPrice": "132.00",
+      "discountedPrice": 82.48669031428133,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 55,
+      "title": "Sleek Fresh Ball",
+      "department": "Movies",
+      "shop": "Pfannerstill Inc",
+      "originalPrice": "963.00",
+      "discountedPrice": 299.17560425890406,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Ball"
+    },
+    {
+      "id": 56,
+      "title": "Gorgeous Frozen Salad",
+      "department": "Games",
+      "shop": "Gutkowski Group",
+      "originalPrice": "156.00",
+      "discountedPrice": 147.59088850690878,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Salad"
+    },
+    {
+      "id": 57,
+      "title": "Generic Cotton Bike",
+      "department": "Home",
+      "shop": "Farrell, Ankunding and Wehner",
+      "originalPrice": "830.00",
+      "discountedPrice": 490.4142062725222,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 58,
+      "title": "Refined Cotton Gloves",
+      "department": "Kids",
+      "shop": "Luettgen - Donnelly",
+      "originalPrice": "434.00",
+      "discountedPrice": 147.66226182197468,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Gloves"
+    },
+    {
+      "id": 59,
+      "title": "Practical Concrete Fish",
+      "department": "Shoes",
+      "shop": "Ruecker LLC",
+      "originalPrice": "332.00",
+      "discountedPrice": 208.26475008196445,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Fish"
+    },
+    {
+      "id": 60,
+      "title": "Incredible Cotton Hat",
+      "department": "Toys",
+      "shop": "Larson LLC",
+      "originalPrice": "363.00",
+      "discountedPrice": 5.254950521462457,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 61,
+      "title": "Handcrafted Concrete Sausages",
+      "department": "Kids",
+      "shop": "Witting, Collins and Stiedemann",
+      "originalPrice": "409.00",
+      "discountedPrice": 142.6002290736466,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 62,
+      "title": "Tasty Wooden Chicken",
+      "department": "Toys",
+      "shop": "Jacobi, Bogan and Ratke",
+      "originalPrice": "757.00",
+      "discountedPrice": 662.2403692346087,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 63,
+      "title": "Intelligent Metal Fish",
+      "department": "Health",
+      "shop": "Rath, Lesch and Abshire",
+      "originalPrice": "972.00",
+      "discountedPrice": 879.4014953726087,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Fish"
+    },
+    {
+      "id": 64,
+      "title": "Handcrafted Soft Hat",
+      "department": "Computers",
+      "shop": "O'Keefe and Sons",
+      "originalPrice": "112.00",
+      "discountedPrice": 108.5716172801382,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 65,
+      "title": "Incredible Plastic Pants",
+      "department": "Music",
+      "shop": "Skiles - Hand",
+      "originalPrice": "428.00",
+      "discountedPrice": 118.73974838497031,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pants"
+    },
+    {
+      "id": 66,
+      "title": "Small Cotton Chicken",
+      "department": "Jewelery",
+      "shop": "Swaniawski, Cassin and Goodwin",
+      "originalPrice": "712.00",
+      "discountedPrice": 57.60825776951634,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 67,
+      "title": "Refined Granite Computer",
+      "department": "Home",
+      "shop": "Friesen, Roob and Langosh",
+      "originalPrice": "460.00",
+      "discountedPrice": 339.7588001697491,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 68,
+      "title": "Tasty Steel Table",
+      "department": "Beauty",
+      "shop": "Blanda - Wolf",
+      "originalPrice": "380.00",
+      "discountedPrice": 8.991168423726723,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Table"
+    },
+    {
+      "id": 69,
+      "title": "Unbranded Wooden Gloves",
+      "department": "Home",
+      "shop": "Streich - Ritchie",
+      "originalPrice": "998.00",
+      "discountedPrice": 725.1626246393857,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Gloves"
+    },
+    {
+      "id": 70,
+      "title": "Ergonomic Metal Fish",
+      "department": "Jewelery",
+      "shop": "Watsica, Shields and Grant",
+      "originalPrice": "328.00",
+      "discountedPrice": 228.04529977419188,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Fish"
+    },
+    {
+      "id": 71,
+      "title": "Small Wooden Car",
+      "department": "Beauty",
+      "shop": "Kertzmann - Kuhic",
+      "originalPrice": "465.00",
+      "discountedPrice": 177.23922782504212,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Car"
+    },
+    {
+      "id": 72,
+      "title": "Awesome Steel Chair",
+      "department": "Health",
+      "shop": "Hintz - Lemke",
+      "originalPrice": "77.00",
+      "discountedPrice": 68.34132023247501,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 73,
+      "title": "Handcrafted Wooden Chicken",
+      "department": "Games",
+      "shop": "Wehner, Erdman and Altenwerth",
+      "originalPrice": "769.00",
+      "discountedPrice": 634.7896464686326,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 74,
+      "title": "Handcrafted Concrete Bacon",
+      "department": "Baby",
+      "shop": "Reilly Group",
+      "originalPrice": "898.00",
+      "discountedPrice": 875.8057539033545,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bacon"
+    },
+    {
+      "id": 75,
+      "title": "Gorgeous Wooden Towels",
+      "department": "Movies",
+      "shop": "Dickinson, Stark and Gerhold",
+      "originalPrice": "324.00",
+      "discountedPrice": 70.07617596033062,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Towels"
+    },
+    {
+      "id": 76,
+      "title": "Handmade Steel Chair",
+      "department": "Movies",
+      "shop": "Abernathy, Parisian and Grady",
+      "originalPrice": "615.00",
+      "discountedPrice": 174.93439642895697,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 77,
+      "title": "Generic Soft Chicken",
+      "department": "Sports",
+      "shop": "Huel, Gislason and Nienow",
+      "originalPrice": "211.00",
+      "discountedPrice": 185.70777565797215,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 78,
+      "title": "Incredible Metal Fish",
+      "department": "Books",
+      "shop": "Franecki Group",
+      "originalPrice": "785.00",
+      "discountedPrice": 4.8817073947092435,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Fish"
+    },
+    {
+      "id": 79,
+      "title": "Rustic Steel Hat",
+      "department": "Tools",
+      "shop": "Terry - Bradtke",
+      "originalPrice": "18.00",
+      "discountedPrice": 10.408055861090045,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 80,
+      "title": "Unbranded Rubber Sausages",
+      "department": "Jewelery",
+      "shop": "Mante Group",
+      "originalPrice": "444.00",
+      "discountedPrice": 197.90769946674868,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 81,
+      "title": "Generic Soft Sausages",
+      "department": "Sports",
+      "shop": "Romaguera and Sons",
+      "originalPrice": "53.00",
+      "discountedPrice": 34.49145935372127,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 82,
+      "title": "Small Steel Car",
+      "department": "Kids",
+      "shop": "Weimann Inc",
+      "originalPrice": "287.00",
+      "discountedPrice": 249.029914601361,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Car"
+    },
+    {
+      "id": 83,
+      "title": "Handcrafted Soft Hat",
+      "department": "Outdoors",
+      "shop": "Ritchie and Sons",
+      "originalPrice": "214.00",
+      "discountedPrice": 196.7659498340085,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Hat"
+    },
+    {
+      "id": 84,
+      "title": "Awesome Cotton Chair",
+      "department": "Home",
+      "shop": "Jerde, West and Prosacco",
+      "originalPrice": "783.00",
+      "discountedPrice": 479.3631217191869,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 85,
+      "title": "Fantastic Soft Chicken",
+      "department": "Kids",
+      "shop": "Leffler - Crooks",
+      "originalPrice": "601.00",
+      "discountedPrice": 433.5439331663968,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chicken"
+    },
+    {
+      "id": 86,
+      "title": "Licensed Frozen Bike",
+      "department": "Outdoors",
+      "shop": "Kuhic Inc",
+      "originalPrice": "210.00",
+      "discountedPrice": 121.6562252569859,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 87,
+      "title": "Awesome Soft Bike",
+      "department": "Kids",
+      "shop": "Medhurst Inc",
+      "originalPrice": "493.00",
+      "discountedPrice": 406.1732261258434,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 88,
+      "title": "Intelligent Granite Ball",
+      "department": "Beauty",
+      "shop": "Lynch, D'Amore and Kozey",
+      "originalPrice": "168.00",
+      "discountedPrice": 154.85912223518872,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Ball"
+    },
+    {
+      "id": 89,
+      "title": "Handcrafted Concrete Computer",
+      "department": "Clothing",
+      "shop": "Hammes - Weber",
+      "originalPrice": "75.00",
+      "discountedPrice": 30.71917505125082,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Computer"
+    },
+    {
+      "id": 90,
+      "title": "Licensed Concrete Pants",
+      "department": "Electronics",
+      "shop": "Jaskolski, Rippin and Von",
+      "originalPrice": "975.00",
+      "discountedPrice": 615.617416393389,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Pants"
+    },
+    {
+      "id": 91,
+      "title": "Licensed Plastic Sausages",
+      "department": "Shoes",
+      "shop": "Rempel, Goodwin and Jerde",
+      "originalPrice": "259.00",
+      "discountedPrice": 235.93757440201327,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Sausages"
+    },
+    {
+      "id": 92,
+      "title": "Handmade Fresh Mouse",
+      "department": "Kids",
+      "shop": "Feeney - Kovacek",
+      "originalPrice": "68.00",
+      "discountedPrice": 63.76542049337785,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Mouse"
+    },
+    {
+      "id": 93,
+      "title": "Small Concrete Chair",
+      "department": "Shoes",
+      "shop": "Parisian LLC",
+      "originalPrice": "135.00",
+      "discountedPrice": 85.67598754000647,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Chair"
+    },
+    {
+      "id": 94,
+      "title": "Sleek Granite Keyboard",
+      "department": "Automotive",
+      "shop": "Rempel LLC",
+      "originalPrice": "323.00",
+      "discountedPrice": 115.45724216571226,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Keyboard"
+    },
+    {
+      "id": 95,
+      "title": "Gorgeous Metal Bike",
+      "department": "Garden",
+      "shop": "Turner - Gottlieb",
+      "originalPrice": "206.00",
+      "discountedPrice": 44.20134293849953,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 96,
+      "title": "Intelligent Plastic Towels",
+      "department": "Automotive",
+      "shop": "Marquardt Group",
+      "originalPrice": "156.00",
+      "discountedPrice": 91.30574851984906,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Towels"
+    },
+    {
+      "id": 97,
+      "title": "Intelligent Plastic Bike",
+      "department": "Home",
+      "shop": "Rowe, Fisher and Johns",
+      "originalPrice": "143.00",
+      "discountedPrice": 58.940863922284706,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bike"
+    },
+    {
+      "id": 98,
+      "title": "Refined Metal Mouse",
+      "department": "Automotive",
+      "shop": "Bailey and Sons",
+      "originalPrice": "415.00",
+      "discountedPrice": 197.14992699349406,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Mouse"
+    },
+    {
+      "id": 99,
+      "title": "Gorgeous Granite Bacon",
+      "department": "Tools",
+      "shop": "Denesik, Kuhn and Hammes",
+      "originalPrice": "732.00",
+      "discountedPrice": 643.9963212481682,
+      "imageUrl": "https://source.unsplash.com/1600x900/?Bacon"
+    }
+  ]
+  

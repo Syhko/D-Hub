@@ -1,22 +1,24 @@
 import React from "react";
 import "./ProductFilter.scss";
 
-const ProductLabel = () => {
+const ProductLabel = ({ key, department, handleFilter, filter }) => {
   return (
-    <div className="label">
-      <p>Product</p>
+    <div className={filter === department ? "selected-label" : "label"} onClick={() => handleFilter(department)}>
+      <p>{department}</p>
     </div>
   );
 };
 
-const ProductFilter = () => {
+const ProductLabelList = ({ categories, handleFilter, filter }) => {
+    return (
+        categories.map((category, index) => (<ProductLabel key={index} department={category} handleFilter={(department) => handleFilter(department)} filter={filter}/>))
+    );
+}
+
+const ProductFilter = ({ categories, handleFilter, filter }) => {
   return (
     <div className="product-filter-wrapper">
-      <ProductLabel />
-      <ProductLabel />
-      <ProductLabel />
-      <ProductLabel />
-      <ProductLabel />
+      <ProductLabelList categories= {categories} handleFilter={(department) => handleFilter(department)} filter={filter}/>
     </div>
   );
 };
