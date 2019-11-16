@@ -6,21 +6,40 @@ import "./App.scss";
 import data from "./data/products.json";
 
 const App = () => {
-  const [category, setCategory] = React.useState("Clothing");
+  const [category, setCategory] = React.useState("Women");
+  const [selectedProductId, setSelectedProductId] = React.useState(null);
+
   const categories = [...new Set(data.map(product => product.department))];
-  const selectCategory = (department) => {
-    setCategory(department)
-  }
-  const locations = data.map(product => ({lat: product.lat, lng: product.lng}))
+  const selectCategory = department => {
+    setCategory(department);
+  };
+  const locations = data.map(product => ({
+    id: product.id,
+    lat: product.lat,
+    lng: product.lng,
+    title: product.title,
+    imageUrl: product.imageUrl
+  }));
   return (
     <div className="app-wrapper">
       <div className="main-banner">
-        <h1>D-HUB</h1>
-        <ProductFilter categories={categories} handleFilter={selectCategory} filter={category}/>
+        <h1>SAVELET</h1>
+        <ProductFilter
+          categories={categories}
+          handleFilter={selectCategory}
+          filter={category}
+        />
       </div>
       <div className="body-wrapper">
-        <Listing products={data} filter={category}/>
-        <MapComponent locations={locations}/>
+        <Listing
+          products={data}
+          filter={category}
+          handleHover={id => setSelectedProductId(id)}
+        />
+        <MapComponent
+          locations={locations}
+          selectedProductId={selectedProductId}
+        />
       </div>
     </div>
   );

@@ -10,15 +10,17 @@ const BuyButton = () => {
 };
 
 const Product = ({
+  id,
   productName,
   shopName,
   productImg,
   originalPrice,
   newPrice,
-  department
+  department,
+  handleHover
 }) => {
   return (
-    <div className="product-wrapper">
+    <div className="product-wrapper" onClick={() => handleHover(id)}>
       <div className="left-wrapper">
         <img src={productImg} />
         <div className="seller-info">
@@ -28,8 +30,8 @@ const Product = ({
       </div>
       <div className="right-wrapper">
         <div className="right-wrapper-column">
-          <div className="previous-price">{Math.floor(originalPrice)} SEK</div>
-          <div className="new-price">{Math.floor(newPrice)} SEK</div>
+          <div className="previous-price">{Math.floor(originalPrice)} €</div>
+          <div className="new-price">{Math.floor(newPrice)} €</div>
         </div>
         <div className="right-wrapper-column">
           <div>{shopName}</div>
