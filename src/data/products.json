@@ -8,7 +8,9 @@
     "discountedPrice": 17.400000000000006,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tall-lace-and-pleat-long-sleeve-maxi-dress/12794203-1-forestgreen?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 55,
+    "hours": 36
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@
     "discountedPrice": 12.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/asos-design-curve-going-out-extreme-ruched-strappy-midi-dress/12808295-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54612896641469,
-    "lng": -46.64295148361138
+    "lng": -46.64295148361138,
+    "CO2": 64,
+    "hours": 19
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@
     "discountedPrice": 36,
     "imageUrl": "https://images.asos-media.com/products/asos-design-long-sleeve-lace-scuba-mix-pencil-midi-dress/12995692-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5443921648681,
-    "lng": -46.63949930627844
+    "lng": -46.63949930627844,
+    "CO2": 68,
+    "hours": 46
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@
     "discountedPrice": 14.400000000000006,
     "imageUrl": "https://images.asos-media.com/products/asos-design-velvet-balloon-sleeve-plunge-wired-bodycon-midi-dress/13002304-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541577961711493,
-    "lng": -46.64160722329613
+    "lng": -46.64160722329613,
+    "CO2": 60,
+    "hours": 48
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tall-soft-denim-tea-dress-in-black/13022413-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547762303364266,
-    "lng": -46.63536053788448
+    "lng": -46.63536053788448,
+    "CO2": 87,
+    "hours": 27
   },
   {
     "id": 6,
@@ -63,7 +73,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/glamorous-curve-long-sleeve-wrap-dress-in-gold-spot/13072437-1-blackgoldspot?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546273112412678,
-    "lng": -46.64122516971552
+    "lng": -46.64122516971552,
+    "CO2": 56,
+    "hours": 1
   },
   {
     "id": 7,
@@ -74,7 +86,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/glamorous-belted-shirt-dress-in-denim/13089982-1-blackdenim?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546923208436723,
-    "lng": -46.6342636964915
+    "lng": -46.6342636964915,
+    "CO2": 82,
+    "hours": 41
   },
   {
     "id": 8,
@@ -85,7 +99,9 @@
     "discountedPrice": 12,
     "imageUrl": "https://images.asos-media.com/products/collusion-knitted-mini-jumper-dress-in-black/13174952-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543769055769133,
-    "lng": -46.63427784085132
+    "lng": -46.63427784085132,
+    "CO2": 81,
+    "hours": 48
   },
   {
     "id": 9,
@@ -96,7 +112,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-pleated-shoulder-pencil-dress/9166568-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547639550320632,
-    "lng": -46.63603162315495
+    "lng": -46.63603162315495,
+    "CO2": 75,
+    "hours": 12
   },
   {
     "id": 10,
@@ -107,7 +125,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-midi-tea-dress-with-buttons-in-floral-print/13695656-1-darkbasedfloral?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547325128224376,
-    "lng": -46.63418378613892
+    "lng": -46.63418378613892,
+    "CO2": 80,
+    "hours": 35
   },
   {
     "id": 11,
@@ -118,7 +138,9 @@
     "discountedPrice": 13.2,
     "imageUrl": "https://images.asos-media.com/products/boohoo-midi-wrap-dress-in-mixed-polka-dot-print/13131283-1-multi?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.53841810407414,
-    "lng": -46.634778375266734
+    "lng": -46.634778375266734,
+    "CO2": 57,
+    "hours": 34
   },
   {
     "id": 12,
@@ -129,7 +151,9 @@
     "discountedPrice": 11.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-nipped-in-waist-mini-dress/11727425-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546435343326205,
-    "lng": -46.63383023397196
+    "lng": -46.63383023397196,
+    "CO2": 89,
+    "hours": 18
   },
   {
     "id": 13,
@@ -140,7 +164,9 @@
     "discountedPrice": 15.991999999999999,
     "imageUrl": "https://images.asos-media.com/products/new-look-tie-waist-long-sleeve-midi-dress-in-black-polka-dot-asos-exclusive/14017826-1-blackpattern?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548945985189434,
-    "lng": -46.63467113292871
+    "lng": -46.63467113292871,
+    "CO2": 94,
+    "hours": 44
   },
   {
     "id": 14,
@@ -151,7 +177,9 @@
     "discountedPrice": 10,
     "imageUrl": "https://images.asos-media.com/products/boohoo-velvet-wrap-midi-dress-with-tie-waist-in-navy/13825861-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545187340816042,
-    "lng": -46.63785524104107
+    "lng": -46.63785524104107,
+    "CO2": 94,
+    "hours": 23
   },
   {
     "id": 15,
@@ -162,7 +190,9 @@
     "discountedPrice": 19.5,
     "imageUrl": "https://images.asos-media.com/products/topshop-dobby-mesh-skater-dress-in-black/14204862-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 61,
+    "hours": 25
   },
   {
     "id": 16,
@@ -173,7 +203,9 @@
     "discountedPrice": 29.4,
     "imageUrl": "https://images.asos-media.com/products/flounce-london-wrap-front-mini-dress-with-statement-shoulder-in-black-with-gold-sequin-in-black-gold/10727454-1-blackgold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541883009983316,
-    "lng": -46.63991946670314
+    "lng": -46.63991946670314,
+    "CO2": 92,
+    "hours": 10
   },
   {
     "id": 17,
@@ -184,7 +216,9 @@
     "discountedPrice": 12,
     "imageUrl": "https://images.asos-media.com/products/asos-design-soft-denim-tea-dress-in-black/13022130-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541389521053937,
-    "lng": -46.629899087812184
+    "lng": -46.629899087812184,
+    "CO2": 66,
+    "hours": 49
   },
   {
     "id": 18,
@@ -195,7 +229,9 @@
     "discountedPrice": 27.000000000000007,
     "imageUrl": "https://images.asos-media.com/products/maya-bridesmaid-long-sleeve-maxi-tulle-dress-with-tonal-delicate-sequins-in-taupe-blush/11129699-1-taupeblush?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54693540437998,
-    "lng": -46.63658792659698
+    "lng": -46.63658792659698,
+    "CO2": 82,
+    "hours": 29
   },
   {
     "id": 19,
@@ -206,7 +242,9 @@
     "discountedPrice": 108,
     "imageUrl": "https://images.asos-media.com/products/asos-edition-sequin-cami-wedding-dress/10125149-1-white?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545884279214015,
-    "lng": -46.643163191240035
+    "lng": -46.643163191240035,
+    "CO2": 93,
+    "hours": 12
   },
   {
     "id": 20,
@@ -217,7 +255,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/glamorous-long-sleeve-wrap-dress-in-gold-spot/13089993-1-blackgoldspot?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545165891770928,
-    "lng": -46.643785796266464
+    "lng": -46.643785796266464,
+    "CO2": 80,
+    "hours": 30
   },
   {
     "id": 21,
@@ -228,7 +268,9 @@
     "discountedPrice": 13.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/glamorous-asymmetric-midaxi-dress-in-animal-print-mix/13089996-1-multianimal?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55223547100232,
-    "lng": -46.6284406588955
+    "lng": -46.6284406588955,
+    "CO2": 78,
+    "hours": 43
   },
   {
     "id": 22,
@@ -239,7 +281,9 @@
     "discountedPrice": 108,
     "imageUrl": "https://images.asos-media.com/products/asos-edition-sequin-cutwork-open-back-midi-dress/13199220-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546690486964888,
-    "lng": -46.635446958807194
+    "lng": -46.635446958807194,
+    "CO2": 82,
+    "hours": 43
   },
   {
     "id": 23,
@@ -250,7 +294,9 @@
     "discountedPrice": 75,
     "imageUrl": "https://images.asos-media.com/products/asos-white-cowl-neck-halter-metallic-dress/13247656-1-red?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546656718016017,
-    "lng": -46.64078762115524
+    "lng": -46.64078762115524,
+    "CO2": 68,
+    "hours": 3
   },
   {
     "id": 24,
@@ -261,7 +307,9 @@
     "discountedPrice": 10.4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-maternity-cross-neck-knitted-mini-dress/13273250-1-cappucino?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549773516504185,
-    "lng": -46.64559900666509
+    "lng": -46.64559900666509,
+    "CO2": 81,
+    "hours": 9
   },
   {
     "id": 25,
@@ -272,7 +320,9 @@
     "discountedPrice": 11.400000000000002,
     "imageUrl": "https://images.asos-media.com/products/asos-design-long-sleeve-shirt-wrap-city-maxi-dress/13311360-1-rust?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541593762969626,
-    "lng": -46.64189378810082
+    "lng": -46.64189378810082,
+    "CO2": 59,
+    "hours": 44
   },
   {
     "id": 26,
@@ -283,7 +333,9 @@
     "discountedPrice": 27.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tux-midi-prom-dress-with-zip-detail/13328370-1-mahoganyrose?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545429533441073,
-    "lng": -46.63571531432852
+    "lng": -46.63571531432852,
+    "CO2": 86,
+    "hours": 19
   },
   {
     "id": 27,
@@ -294,7 +346,9 @@
     "discountedPrice": 36,
     "imageUrl": "https://images.asos-media.com/products/forever-u-structured-tux-dress-in-metallic-with-belt-in-black/13379654-1-blacksilver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.550392524842728,
-    "lng": -46.637301640717844
+    "lng": -46.637301640717844,
+    "CO2": 55,
+    "hours": 22
   },
   {
     "id": 28,
@@ -305,7 +359,9 @@
     "discountedPrice": 20,
     "imageUrl": "https://images.asos-media.com/products/asos-design-velvet-fallen-shoulder-midi-pencil-dress-with-tie-detail/13053371-1-forestgreen?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5398418758395,
-    "lng": -46.63514797691531
+    "lng": -46.63514797691531,
+    "CO2": 65,
+    "hours": 16
   },
   {
     "id": 29,
@@ -316,7 +372,9 @@
     "discountedPrice": 19,
     "imageUrl": "https://images.asos-media.com/products/asos-design-velvet-lace-long-sleeve-wrap-midi-dress/12766021-1-bottlegreen?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543539449073783,
-    "lng": -46.64057731057763
+    "lng": -46.64057731057763,
+    "CO2": 58,
+    "hours": 23
   },
   {
     "id": 30,
@@ -327,7 +385,9 @@
     "discountedPrice": 10,
     "imageUrl": "https://images.asos-media.com/products/boohoo-velvet-mini-dress-with-flare-sleeve-and-belted-waist-in-black/13633954-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549819091869107,
-    "lng": -46.63560588995324
+    "lng": -46.63560588995324,
+    "CO2": 83,
+    "hours": 11
   },
   {
     "id": 31,
@@ -338,7 +398,9 @@
     "discountedPrice": 51,
     "imageUrl": "https://images.asos-media.com/products/asos-design-midi-dress-with-blouson-sleeve-and-belt-in-irridescent-sheet-sequin/12527465-1-irridecentbronze?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546704599774962,
-    "lng": -46.64033633250615
+    "lng": -46.64033633250615,
+    "CO2": 84,
+    "hours": 12
   },
   {
     "id": 32,
@@ -349,7 +411,9 @@
     "discountedPrice": 22,
     "imageUrl": "https://images.asos-media.com/products/asos-design-long-sleeve-cowl-back-midi-dress/13995943-1-plum?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55001091199737,
-    "lng": -46.63116636914989
+    "lng": -46.63116636914989,
+    "CO2": 73,
+    "hours": 38
   },
   {
     "id": 33,
@@ -360,7 +424,9 @@
     "discountedPrice": 38.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-cowl-back-bias-cut-midi-dress-with-diamante-back-detail-in-satin/12806676-1-oyster?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54532011933758,
-    "lng": -46.64406863434122
+    "lng": -46.64406863434122,
+    "CO2": 67,
+    "hours": 35
   },
   {
     "id": 34,
@@ -371,7 +437,9 @@
     "discountedPrice": 15.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-sleeveless-high-neck-pleated-open-back-velvet-midi-dress/13150475-1-blue?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552151883432384,
-    "lng": -46.63080224715792
+    "lng": -46.63080224715792,
+    "CO2": 51,
+    "hours": 49
   },
   {
     "id": 35,
@@ -382,7 +450,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-one-shoulder-tulle-wired-hem-maxi-dress/13024454-1-forestgreen?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540774688874112,
-    "lng": -46.63551484303775
+    "lng": -46.63551484303775,
+    "CO2": 59,
+    "hours": 49
   },
   {
     "id": 36,
@@ -393,7 +463,9 @@
     "discountedPrice": 14.995,
     "imageUrl": "https://images.asos-media.com/products/new-look-split-detail-long-sleeve-dress-in-black-rose-floral-print/13444753-1-blackpattern?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5492954052167,
-    "lng": -46.63207469510652
+    "lng": -46.63207469510652,
+    "CO2": 53,
+    "hours": 0
   },
   {
     "id": 37,
@@ -404,7 +476,9 @@
     "discountedPrice": 7.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-teddy-v-back-fleece-dress/12540486-1-pink?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549009406053422,
-    "lng": -46.642812281839745
+    "lng": -46.642812281839745,
+    "CO2": 66,
+    "hours": 20
   },
   {
     "id": 38,
@@ -415,7 +489,9 @@
     "discountedPrice": 13.500000000000004,
     "imageUrl": "https://images.asos-media.com/products/asos-design-velvet-bias-midi-dress-with-puff-sleeves/13242348-1-red?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548755593946588,
-    "lng": -46.642789203733535
+    "lng": -46.642789203733535,
+    "CO2": 86,
+    "hours": 18
   },
   {
     "id": 39,
@@ -426,7 +502,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-long-sleeve-velvet-smock-dress/13050919-1-tealblue?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.538301166801343,
-    "lng": -46.63076391104508
+    "lng": -46.63076391104508,
+    "CO2": 68,
+    "hours": 20
   },
   {
     "id": 40,
@@ -437,7 +515,9 @@
     "discountedPrice": 70,
     "imageUrl": "https://images.asos-media.com/products/forever-u-metallic-mini-dress-with-balloon-sleeves-in-silver/13380010-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 78,
+    "hours": 21
   },
   {
     "id": 41,
@@ -448,7 +528,9 @@
     "discountedPrice": 13.2,
     "imageUrl": "https://images.asos-media.com/products/wednesdays-girl-mini-wrap-dress-in-star-floral-mixed-print/13428172-1-blackstar?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547119249235397,
-    "lng": -46.634232699405686
+    "lng": -46.634232699405686,
+    "CO2": 76,
+    "hours": 10
   },
   {
     "id": 42,
@@ -459,7 +541,9 @@
     "discountedPrice": 15.6,
     "imageUrl": "https://images.asos-media.com/products/wednesdays-girl-long-sleeve-dress-with-pleated-skirt-in-retro-floral/13428488-1-greenpinkfloral?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54032130474925,
-    "lng": -46.636394815973325
+    "lng": -46.636394815973325,
+    "CO2": 66,
+    "hours": 30
   },
   {
     "id": 43,
@@ -470,7 +554,9 @@
     "discountedPrice": 20.4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-grecian-beach-maxi-dress-in-chevron-texture-with-rope-tie-belt/13451327-1-red?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54569153926945,
-    "lng": -46.635866061486446
+    "lng": -46.635866061486446,
+    "CO2": 53,
+    "hours": 28
   },
   {
     "id": 44,
@@ -481,7 +567,9 @@
     "discountedPrice": 22.799999999999997,
     "imageUrl": "https://images.asos-media.com/products/asos-curve-two-piece-midi-dress-and-dressing-gown-set/13456128-1-blacksilver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 53,
+    "hours": 49
   },
   {
     "id": 45,
@@ -492,7 +580,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-velvet-zip-front-corseted-puff-sleeve-mini-dress/13471543-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54874766250217,
-    "lng": -46.64239136704376
+    "lng": -46.64239136704376,
+    "CO2": 73,
+    "hours": 11
   },
   {
     "id": 46,
@@ -503,7 +593,9 @@
     "discountedPrice": 15.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/esprit-ribbed-high-neck-knitted-dress/13541601-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541191476542252,
-    "lng": -46.63499346058632
+    "lng": -46.63499346058632,
+    "CO2": 88,
+    "hours": 34
   },
   {
     "id": 47,
@@ -514,7 +606,9 @@
     "discountedPrice": 15,
     "imageUrl": "https://images.asos-media.com/products/in-the-style-ribbed-maxi-dress/13543924-1-white?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552549496537548,
-    "lng": -46.63163152553523
+    "lng": -46.63163152553523,
+    "CO2": 83,
+    "hours": 29
   },
   {
     "id": 48,
@@ -525,7 +619,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-mini-tea-dress-with-buttons-in-floral-print/13695657-1-blackpinkditsy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55052430835593,
-    "lng": -46.63669363835193
+    "lng": -46.63669363835193,
+    "CO2": 71,
+    "hours": 23
   },
   {
     "id": 49,
@@ -536,7 +632,9 @@
     "discountedPrice": 19.593,
     "imageUrl": "https://images.asos-media.com/products/new-look-floral-drawstring-midi-dress-in-red-pattern/13544026-1-tbc?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542391627195926,
-    "lng": -46.63770927785183
+    "lng": -46.63770927785183,
+    "CO2": 60,
+    "hours": 37
   },
   {
     "id": 50,
@@ -547,7 +645,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-glitter-velvet-mini-tea-dress/13311890-1-blackglitter?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552482452132203,
-    "lng": -46.62938955675458
+    "lng": -46.62938955675458,
+    "CO2": 84,
+    "hours": 31
   },
   {
     "id": 51,
@@ -558,7 +658,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-pleated-smock-dress/11489683-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54660531805078,
-    "lng": -46.641982174447385
+    "lng": -46.641982174447385,
+    "CO2": 61,
+    "hours": 19
   },
   {
     "id": 52,
@@ -569,7 +671,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/asos-design-floral-print-long-sleeve-maxi-tea-dress/13311362-1-floralprint?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544873598101518,
-    "lng": -46.64030309449483
+    "lng": -46.64030309449483,
+    "CO2": 79,
+    "hours": 5
   },
   {
     "id": 53,
@@ -580,7 +684,9 @@
     "discountedPrice": 45.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-mini-dress-with-batwing-sleeve-and-wrap-waist-in-scatter-sequin/12675242-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542908915344253,
-    "lng": -46.63679724785041
+    "lng": -46.63679724785041,
+    "CO2": 52,
+    "hours": 4
   },
   {
     "id": 54,
@@ -591,7 +697,9 @@
     "discountedPrice": 45.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-embellished-cape-plunge-tulle-mini-dress/12788601-1-beige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54599881709849,
-    "lng": -46.640834743407
+    "lng": -46.640834743407,
+    "CO2": 82,
+    "hours": 4
   },
   {
     "id": 55,
@@ -602,7 +710,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/asos-design-mini-dress-with-wrap-skirt/10958191-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540204555658082,
-    "lng": -46.644147057043064
+    "lng": -46.644147057043064,
+    "CO2": 63,
+    "hours": 3
   },
   {
     "id": 56,
@@ -613,7 +723,9 @@
     "discountedPrice": 48,
     "imageUrl": "https://images.asos-media.com/products/tfnc-bridesmaid-exclusive-open-back-scalloped-lace-dress-in-mink/11837136-1-mink?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.538670334439413,
-    "lng": -46.62934557285476
+    "lng": -46.62934557285476,
+    "CO2": 70,
+    "hours": 31
   },
   {
     "id": 57,
@@ -624,7 +736,9 @@
     "discountedPrice": 30.4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wiggle-midi-dress/10587813-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546381972243076,
-    "lng": -46.642893706619056
+    "lng": -46.642893706619056,
+    "CO2": 89,
+    "hours": 9
   },
   {
     "id": 58,
@@ -635,7 +749,9 @@
     "discountedPrice": 28,
     "imageUrl": "https://images.asos-media.com/products/yas-high-neck-plisse-dress-with-lace-cuff-in-black/13045139-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545051649171974,
-    "lng": -46.64007245239201
+    "lng": -46.64007245239201,
+    "CO2": 92,
+    "hours": 44
   },
   {
     "id": 59,
@@ -646,7 +762,9 @@
     "discountedPrice": 10.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-mini-cami-slip-dress/8926611-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540316757429707,
-    "lng": -46.63735536871719
+    "lng": -46.63735536871719,
+    "CO2": 72,
+    "hours": 41
   },
   {
     "id": 60,
@@ -657,7 +775,9 @@
     "discountedPrice": 88,
     "imageUrl": "https://images.asos-media.com/products/the-east-order-avanti-long-sleeve-abstract-spot-mini-dress/13576441-1-blackwildnerness?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54639669248079,
-    "lng": -46.643059340556235
+    "lng": -46.643059340556235,
+    "CO2": 55,
+    "hours": 24
   },
   {
     "id": 61,
@@ -668,7 +788,9 @@
     "discountedPrice": 40,
     "imageUrl": "https://images.asos-media.com/products/asos-white-metallic-strappy-belted-mini-dress/13594374-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54981334999131,
-    "lng": -46.63035027254893
+    "lng": -46.63035027254893,
+    "CO2": 98,
+    "hours": 47
   },
   {
     "id": 62,
@@ -679,7 +801,9 @@
     "discountedPrice": 22.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tall-embroidered-halter-pleated-maxi-dress/13596751-1-grey?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539494799586286,
-    "lng": -46.632843914149746
+    "lng": -46.632843914149746,
+    "CO2": 84,
+    "hours": 25
   },
   {
     "id": 63,
@@ -690,7 +814,9 @@
     "discountedPrice": 67.60000000000001,
     "imageUrl": "https://images.asos-media.com/products/stevie-may-odette-bodycon-ruched-mini-dress/13606295-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539147179866543,
-    "lng": -46.635832364623674
+    "lng": -46.635832364623674,
+    "CO2": 80,
+    "hours": 9
   },
   {
     "id": 64,
@@ -701,7 +827,9 @@
     "discountedPrice": 51.000000000000014,
     "imageUrl": "https://images.asos-media.com/products/stevie-may-cannes-paisley-flippy-short-sleeve-mini-dress/13606299-1-saffronfloral?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541700023861782,
-    "lng": -46.64131782056096
+    "lng": -46.64131782056096,
+    "CO2": 54,
+    "hours": 19
   },
   {
     "id": 65,
@@ -712,7 +840,9 @@
     "discountedPrice": 159.2,
     "imageUrl": "https://images.asos-media.com/products/stevie-may-concord-long-sleeve-embroidered-mini-dress/13606306-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 90,
+    "hours": 9
   },
   {
     "id": 66,
@@ -723,7 +853,9 @@
     "discountedPrice": 13.500000000000004,
     "imageUrl": "https://images.asos-media.com/products/na-kd-tie-waist-round-neck-mini-knitted-dress-in-off-white/13634794-1-white?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54693540437998,
-    "lng": -46.63658792659698
+    "lng": -46.63658792659698,
+    "CO2": 99,
+    "hours": 33
   },
   {
     "id": 67,
@@ -734,7 +866,9 @@
     "discountedPrice": 60,
     "imageUrl": "https://images.asos-media.com/products/asos-white-floral-puff-sleeve-tea-dress/13648642-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 81,
+    "hours": 1
   },
   {
     "id": 68,
@@ -745,7 +879,9 @@
     "discountedPrice": 6.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/asos-design-long-sleeve-smock-dress-with-drawstring-waist/13318811-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546774768769353,
-    "lng": -46.64251431141433
+    "lng": -46.64251431141433,
+    "CO2": 78,
+    "hours": 2
   },
   {
     "id": 69,
@@ -756,7 +892,9 @@
     "discountedPrice": 9,
     "imageUrl": "https://images.asos-media.com/products/prettylittlething-ruched-bardot-bodycon-mini-dress-in-black/13430783-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542925000621707,
-    "lng": -46.643423947383695
+    "lng": -46.643423947383695,
+    "CO2": 96,
+    "hours": 23
   },
   {
     "id": 70,
@@ -767,7 +905,9 @@
     "discountedPrice": 12.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/asos-design-hoodie-sweat-dress/13014686-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547082268784923,
-    "lng": -46.63340844117833
+    "lng": -46.63340844117833,
+    "CO2": 76,
+    "hours": 40
   },
   {
     "id": 72,
@@ -778,7 +918,9 @@
     "discountedPrice": 48,
     "imageUrl": "https://images.asos-media.com/products/tommy-jeans-logo-cross-body-bag/13028982-1-corporate?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54532011933758,
-    "lng": -46.64406863434122
+    "lng": -46.64406863434122,
+    "CO2": 77,
+    "hours": 41
   },
   {
     "id": 73,
@@ -789,7 +931,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/tommy-jeans-recycled-city-compact-cross-body-bag/13028993-1-sleet?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54831797807146,
-    "lng": -46.63542110199666
+    "lng": -46.63542110199666,
+    "CO2": 78,
+    "hours": 12
   },
   {
     "id": 74,
@@ -800,7 +944,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/liars-lovers-black-velvet-bag-with-pearl-handle-detail/13040019-1-blackvelvet?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.536156075768947,
-    "lng": -46.63565005635056
+    "lng": -46.63565005635056,
+    "CO2": 78,
+    "hours": 1
   },
   {
     "id": 75,
@@ -811,7 +957,9 @@
     "discountedPrice": 16,
     "imageUrl": "https://images.asos-media.com/products/skinnydip-cosmic-pyramid-grab-bag-in-black/13413117-1-beadedstin?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547052131282804,
-    "lng": -46.639477959749584
+    "lng": -46.639477959749584,
+    "CO2": 52,
+    "hours": 33
   },
   {
     "id": 76,
@@ -822,7 +970,9 @@
     "discountedPrice": 3,
     "imageUrl": "https://images.asos-media.com/products/asos-4505-mini-running-belt-in-stretch-fabric/13125063-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546453343326203,
-    "lng": -46.63394723397195
+    "lng": -46.63394723397195,
+    "CO2": 54,
+    "hours": 14
   },
   {
     "id": 77,
@@ -833,7 +983,9 @@
     "discountedPrice": 15,
     "imageUrl": "https://images.asos-media.com/products/asos-design-leather-camera-cross-body-bag/13197050-1-chocolate?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.536864121011018,
-    "lng": -46.63349313820771
+    "lng": -46.63349313820771,
+    "CO2": 94,
+    "hours": 13
   },
   {
     "id": 78,
@@ -844,7 +996,9 @@
     "discountedPrice": 22,
     "imageUrl": "https://images.asos-media.com/products/calvin-klein-jeans-monogram-logo-bum-bag/13659247-1-blackwhite?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54130569969415,
-    "lng": -46.63285261754857
+    "lng": -46.63285261754857,
+    "CO2": 89,
+    "hours": 39
   },
   {
     "id": 79,
@@ -855,7 +1009,9 @@
     "discountedPrice": 59.4,
     "imageUrl": "https://images.asos-media.com/products/love-moschino-quilted-cross-body-bag/13784810-1-blush?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 81,
+    "hours": 41
   },
   {
     "id": 80,
@@ -866,7 +1022,9 @@
     "discountedPrice": 107.80000000000001,
     "imageUrl": "https://images.asos-media.com/products/love-moschino-cross-body-bag/13784823-1-white?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540774688874112,
-    "lng": -46.63551484303775
+    "lng": -46.63551484303775,
+    "CO2": 62,
+    "hours": 10
   },
   {
     "id": 81,
@@ -877,7 +1035,9 @@
     "discountedPrice": 12.5,
     "imageUrl": "https://images.asos-media.com/products/monki-faux-fur-backpack-in-black/14071997-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.537304315614186,
-    "lng": -46.633862438491114
+    "lng": -46.633862438491114,
+    "CO2": 68,
+    "hours": 13
   },
   {
     "id": 82,
@@ -888,7 +1048,9 @@
     "discountedPrice": 47.2,
     "imageUrl": "https://images.asos-media.com/products/valentino-by-mario-valentino-divina-foldover-tassel-detail-cross-body-bag-in-black/8732647-1-black?$n_480w$&amp;wid=476&{amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 91,
+    "hours": 27
   },
   {
     "id": 83,
@@ -899,7 +1061,9 @@
     "discountedPrice": 7.200000000000001,
     "imageUrl": "https://images.asos-media.com/products/asos-design-croc-effect-90s-shoulder-bag/12229427-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544986605055076,
-    "lng": -46.63345367485142
+    "lng": -46.63345367485142,
+    "CO2": 84,
+    "hours": 12
   },
   {
     "id": 84,
@@ -910,7 +1074,9 @@
     "discountedPrice": 7.199999999999999,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tassel-clutch-bag/11243066-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54425493154535,
-    "lng": -46.634639135589296
+    "lng": -46.634639135589296,
+    "CO2": 97,
+    "hours": 0
   },
   {
     "id": 85,
@@ -921,7 +1087,9 @@
     "discountedPrice": 15.4,
     "imageUrl": "https://images.asos-media.com/products/nike-small-sports-bag-in-black/12430157-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546340513734233,
-    "lng": -46.636238503202634
+    "lng": -46.636238503202634,
+    "CO2": 98,
+    "hours": 34
   },
   {
     "id": 86,
@@ -932,7 +1100,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tassel-clutch-bag/11243119-1-red?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547448918662464,
-    "lng": -46.64016924063704
+    "lng": -46.64016924063704,
+    "CO2": 55,
+    "hours": 1
   },
   {
     "id": 87,
@@ -943,7 +1113,9 @@
     "discountedPrice": 8.4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-bum-bag/12982276-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547806958346342,
-    "lng": -46.63612181853806
+    "lng": -46.63612181853806,
+    "CO2": 89,
+    "hours": 11
   },
   {
     "id": 88,
@@ -954,7 +1126,9 @@
     "discountedPrice": 4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-leopard-print-coin-purse/11716694-1-multi?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552533361648077,
-    "lng": -46.62960898251487
+    "lng": -46.62960898251487,
+    "CO2": 57,
+    "hours": 0
   },
   {
     "id": 89,
@@ -965,7 +1139,9 @@
     "discountedPrice": 8.4,
     "imageUrl": "https://images.asos-media.com/products/asos-design-tassel-clutch-bag/11243120-1-cream?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541700023861782,
-    "lng": -46.64131782056096
+    "lng": -46.64131782056096,
+    "CO2": 94,
+    "hours": 20
   },
   {
     "id": 90,
@@ -976,7 +1152,9 @@
     "discountedPrice": 16,
     "imageUrl": "https://images.asos-media.com/products/asos-design-large-croc-half-moon-cross-body-bag/10352142-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54903244546711,
-    "lng": -46.63531311226845
+    "lng": -46.63531311226845,
+    "CO2": 57,
+    "hours": 1
   },
   {
     "id": 91,
@@ -987,7 +1165,9 @@
     "discountedPrice": 8,
     "imageUrl": "https://images.asos-media.com/products/asos-design-large-croc-half-moon-cross-body-bag/11376106-1-tan?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547325128224376,
-    "lng": -46.63418378613892
+    "lng": -46.63418378613892,
+    "CO2": 92,
+    "hours": 19
   },
   {
     "id": 92,
@@ -998,7 +1178,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-soft-backpack-with-zip-detail/10552760-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542303065497162,
-    "lng": -46.64280268887412
+    "lng": -46.64280268887412,
+    "CO2": 81,
+    "hours": 11
   },
   {
     "id": 93,
@@ -1009,7 +1191,9 @@
     "discountedPrice": 14.5,
     "imageUrl": "https://images.asos-media.com/products/topshop-shoulder-bag-with-chain-detail-in-black/14202482-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547686322234377,
-    "lng": -46.6341397692307
+    "lng": -46.6341397692307,
+    "CO2": 98,
+    "hours": 12
   },
   {
     "id": 94,
@@ -1020,7 +1204,9 @@
     "discountedPrice": 21.6,
     "imageUrl": "https://images.asos-media.com/products/river-island-across-body-bag-with-faux-pearl-handle-detail-in-pink/14267108-1-pink?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 62,
+    "hours": 6
   },
   {
     "id": 95,
@@ -1031,7 +1217,9 @@
     "discountedPrice": 11.2,
     "imageUrl": "https://images.asos-media.com/products/glamorous-black-velvet-cross-body-bag-with-gold-tassel-hardware/12935847-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54612896641469,
-    "lng": -46.64295148361138
+    "lng": -46.64295148361138,
+    "CO2": 97,
+    "hours": 12
   },
   {
     "id": 96,
@@ -1042,7 +1230,9 @@
     "discountedPrice": 8.400000000000002,
     "imageUrl": "https://images.asos-media.com/products/liars-lovers-black-velvet-occasion-box-bag-with-gold-chain-handle/13040017-1-black?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.544667372468112,
-    "lng": -46.64066942714524
+    "lng": -46.64066942714524,
+    "CO2": 94,
+    "hours": 35
   },
   {
     "id": 97,
@@ -1053,7 +1243,9 @@
     "discountedPrice": 90.30000000000001,
     "imageUrl": "https://images.asos-media.com/products/whistles-bibi-crossbody-leather-bag/13655466-1-tansnakeprint?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546340513734233,
-    "lng": -46.636238503202634
+    "lng": -46.636238503202634,
+    "CO2": 62,
+    "hours": 17
   },
   {
     "id": 98,
@@ -1064,7 +1256,9 @@
     "discountedPrice": 11.193000000000001,
     "imageUrl": "https://images.asos-media.com/products/stradivarius-handbag-in-tweed-with-pearls/13857067-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549107326677785,
-    "lng": -46.644104604074144
+    "lng": -46.644104604074144,
+    "CO2": 86,
+    "hours": 36
   },
   {
     "id": 99,
@@ -1075,7 +1269,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/river-island-monogram-cylinder-bag-in-chocolate/14264274-1-choc?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54929199999999,
-    "lng": -46.633559478233785
+    "lng": -46.633559478233785,
+    "CO2": 94,
+    "hours": 28
   },
   {
     "id": 100,
@@ -1086,7 +1282,9 @@
     "discountedPrice": 28,
     "imageUrl": "https://images.asos-media.com/products/kate-spade-sylvia-embossed-card-holder-in-pink-croc-leather/12062123-1-ruffledpansy?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.53984025062037,
-    "lng": -46.6302639919499
+    "lng": -46.6302639919499,
+    "CO2": 52,
+    "hours": 39
   },
   {
     "id": 101,
@@ -1097,7 +1295,9 @@
     "discountedPrice": 3.6000000000000014,
     "imageUrl": "https://images.asos-media.com/products/asos-design-curve-bum-bag/12982280-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54631891978764,
-    "lng": -46.63343055730286
+    "lng": -46.63343055730286,
+    "CO2": 89,
+    "hours": 9
   },
   {
     "id": 102,
@@ -1108,7 +1308,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-quilted-zip-top-clutch-bag/11610793-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546340513734233,
-    "lng": -46.636238503202634
+    "lng": -46.636238503202634,
+    "CO2": 54,
+    "hours": 7
   },
   {
     "id": 103,
@@ -1119,7 +1321,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-zip-top-wristlet-clutch-bag-in-metallic/11768345-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545013657510516,
-    "lng": -46.641993024150246
+    "lng": -46.641993024150246,
+    "CO2": 53,
+    "hours": 20
   },
   {
     "id": 104,
@@ -1130,7 +1334,9 @@
     "discountedPrice": 5.6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-metallic-coin-purse-and-cardholder/10758969-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549107326677785,
-    "lng": -46.644104604074144
+    "lng": -46.644104604074144,
+    "CO2": 98,
+    "hours": 1
   },
   {
     "id": 105,
@@ -1141,7 +1347,9 @@
     "discountedPrice": 11.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-croc-city-bag-with-ring-ball-detail/10352387-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546940580846673,
-    "lng": -46.633311921420805
+    "lng": -46.633311921420805,
+    "CO2": 61,
+    "hours": 33
   },
   {
     "id": 106,
@@ -1152,7 +1360,9 @@
     "discountedPrice": 24.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-clean-leather-backpack/13141925-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546273112412678,
-    "lng": -46.64122516971552
+    "lng": -46.64122516971552,
+    "CO2": 72,
+    "hours": 13
   },
   {
     "id": 107,
@@ -1163,7 +1373,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-micro-bag-with-padlock-detail-and-chunky-chain/13287394-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.537019709129215,
-    "lng": -46.63435857175824
+    "lng": -46.63435857175824,
+    "CO2": 82,
+    "hours": 32
   },
   {
     "id": 108,
@@ -1174,7 +1386,9 @@
     "discountedPrice": 52.5,
     "imageUrl": "https://images.asos-media.com/products/valentino-by-mario-valentino-ocarina-black-quilted-cross-body-bag-with-chain-strap/12058183-1-neroblack?$n_480w$&amp;{wid=476&amp;fit=constrain",
     "lat": -23.550449207051752,
-    "lng": -46.64324288827981
+    "lng": -46.64324288827981,
+    "CO2": 88,
+    "hours": 45
   },
   {
     "id": 109,
@@ -1185,7 +1399,9 @@
     "discountedPrice": 48,
     "imageUrl": "https://images.asos-media.com/products/fjallraven-kanken-classic-black-backpack/4641237-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548851827918533,
-    "lng": -46.63120714847948
+    "lng": -46.63120714847948,
+    "CO2": 61,
+    "hours": 34
   },
   {
     "id": 110,
@@ -1196,7 +1412,9 @@
     "discountedPrice": 7,
     "imageUrl": "https://images.asos-media.com/products/asos-design-string-shopper/12982274-1-cream?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544826346129778,
-    "lng": -46.63086956396899
+    "lng": -46.63086956396899,
+    "CO2": 82,
+    "hours": 16
   },
   {
     "id": 111,
@@ -1207,7 +1425,9 @@
     "discountedPrice": 12.5,
     "imageUrl": "https://images.asos-media.com/products/adidas-originals-trefoil-logo-backpack-in-black/11717150-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.537019709129215,
-    "lng": -46.63435857175824
+    "lng": -46.63435857175824,
+    "CO2": 63,
+    "hours": 29
   },
   {
     "id": 112,
@@ -1218,7 +1438,9 @@
     "discountedPrice": 7,
     "imageUrl": "https://images.asos-media.com/products/asos-design-string-shopper/12982402-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5406861987132,
-    "lng": -46.638296449218
+    "lng": -46.638296449218,
+    "CO2": 51,
+    "hours": 42
   },
   {
     "id": 113,
@@ -1229,7 +1451,9 @@
     "discountedPrice": 38.7,
     "imageUrl": "https://images.asos-media.com/products/kurt-geiger-mini-mayfair-tweed-cross-body-bag-with-embellished-buckle/12343400-1-blktweed?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.545341492094142,
-    "lng": -46.63558668567147
+    "lng": -46.63558668567147,
+    "CO2": 69,
+    "hours": 44
   },
   {
     "id": 114,
@@ -1240,7 +1464,9 @@
     "discountedPrice": 62,
     "imageUrl": "https://images.asos-media.com/products/versace-jeans-couture-vine-print-shoulder-bag-with-chain-strap/12624771-1-black?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.549819091869107,
-    "lng": -46.63560588995324
+    "lng": -46.63560588995324,
+    "CO2": 65,
+    "hours": 7
   },
   {
     "id": 115,
@@ -1251,7 +1477,9 @@
     "discountedPrice": 34.5,
     "imageUrl": "https://images.asos-media.com/products/versace-jeans-couture-vine-print-bumbag/12624775-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546252957116764,
-    "lng": -46.64521736309942
+    "lng": -46.64521736309942,
+    "CO2": 79,
+    "hours": 34
   },
   {
     "id": 116,
@@ -1262,7 +1490,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/puma-luxe-portable-flight-bag-in-neon-orange/13637418-1-orange?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.53984025062037,
-    "lng": -46.6302639919499
+    "lng": -46.6302639919499,
+    "CO2": 59,
+    "hours": 28
   },
   {
     "id": 117,
@@ -1273,7 +1503,9 @@
     "discountedPrice": 3.5,
     "imageUrl": "https://images.asos-media.com/products/monki-holographic-card-holder-in-pink/14072011-1-pink?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542925000621707,
-    "lng": -46.643423947383695
+    "lng": -46.643423947383695,
+    "CO2": 73,
+    "hours": 39
   },
   {
     "id": 118,
@@ -1284,7 +1516,9 @@
     "discountedPrice": 10.4,
     "imageUrl": "https://images.asos-media.com/products/river-island-crossbody-bag-in-monogram-logo-print/14136367-1-greymix?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54186295323959,
-    "lng": -46.630035294315356
+    "lng": -46.630035294315356,
+    "CO2": 94,
+    "hours": 22
   },
   {
     "id": 119,
@@ -1295,7 +1529,9 @@
     "discountedPrice": 16,
     "imageUrl": "https://images.asos-media.com/products/river-island-crossbody-bucket-bag-in-snake-print/14266517-1-beige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542520789115148,
-    "lng": -46.63533516134283
+    "lng": -46.63533516134283,
+    "CO2": 64,
+    "hours": 18
   },
   {
     "id": 120,
@@ -1306,7 +1542,9 @@
     "discountedPrice": 16.799999999999997,
     "imageUrl": "https://images.asos-media.com/products/true-decadence-black-satin-box-crossbody-bag-with-silver-chain/12935615-1-blacksatin?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.54676158651283,
-    "lng": -46.63345484931019
+    "lng": -46.63345484931019,
+    "CO2": 88,
+    "hours": 11
   },
   {
     "id": 121,
@@ -1317,7 +1555,9 @@
     "discountedPrice": 12.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-casual-tote-with-chain-pocket-detail/13248275-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542679676299098,
-    "lng": -46.63819683884986
+    "lng": -46.63819683884986,
+    "CO2": 57,
+    "hours": 48
   },
   {
     "id": 122,
@@ -1328,7 +1568,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/nike-just-do-it-mini-backpack-in-black-and-yellow/12430159-1-oilgrey?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55073674632121,
-    "lng": -46.64337116570483
+    "lng": -46.64337116570483,
+    "CO2": 57,
+    "hours": 26
   },
   {
     "id": 123,
@@ -1339,7 +1581,9 @@
     "discountedPrice": 8.8,
     "imageUrl": "https://images.asos-media.com/products/reclaimed-vintage-inspired-pull-through-faux-fur-bag-in-leopard/13201083-1-multi?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.548495128772636,
-    "lng": -46.633490627676125
+    "lng": -46.633490627676125,
+    "CO2": 80,
+    "hours": 3
   },
   {
     "id": 124,
@@ -1350,7 +1594,9 @@
     "discountedPrice": 11,
     "imageUrl": "https://images.asos-media.com/products/asos-design-croc-bonded-shopper-bag/11651932-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54530659310986,
-    "lng": -46.636994571065735
+    "lng": -46.636994571065735,
+    "CO2": 53,
+    "hours": 12
   },
   {
     "id": 125,
@@ -1361,7 +1607,9 @@
     "discountedPrice": 15,
     "imageUrl": "https://images.asos-media.com/products/asos-design-luxe-cage-sphere-clutch-bag/11241834-1-gold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539439503750902,
-    "lng": -46.63306386663973
+    "lng": -46.63306386663973,
+    "CO2": 65,
+    "hours": 44
   },
   {
     "id": 126,
@@ -1372,7 +1620,9 @@
     "discountedPrice": 19.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-luxe-diamante-fringe-sphere-bag/11576338-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549283671100515,
-    "lng": -46.631484900917506
+    "lng": -46.631484900917506,
+    "CO2": 79,
+    "hours": 19
   },
   {
     "id": 127,
@@ -1383,7 +1633,9 @@
     "discountedPrice": 8.8,
     "imageUrl": "https://images.asos-media.com/products/true-decadence-silver-mesh-foldover-clutch-bag/12935631-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546851358078364,
-    "lng": -46.63554539392908
+    "lng": -46.63554539392908,
+    "CO2": 97,
+    "hours": 3
   },
   {
     "id": 128,
@@ -1394,7 +1646,9 @@
     "discountedPrice": 6.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/my-accessories-london-exclusive-frame-top-beaded-mini-grab-bag/12963241-1-silver?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.537313618096828,
-    "lng": -46.63302994561133
+    "lng": -46.63302994561133,
+    "CO2": 69,
+    "hours": 34
   },
   {
     "id": 129,
@@ -1405,7 +1659,9 @@
     "discountedPrice": 24.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-suede-circle-cross-body-bag-in-snake-print/13177487-1-multi?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54516769470249,
-    "lng": -46.632248679583284
+    "lng": -46.632248679583284,
+    "CO2": 94,
+    "hours": 7
   },
   {
     "id": 130,
@@ -1416,7 +1672,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-leather-winged-cross-body-bag-with-ring-chain-detail/13196456-1-black?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.550218647763327,
-    "lng": -46.631879999999995
+    "lng": -46.631879999999995,
+    "CO2": 86,
+    "hours": 18
   },
   {
     "id": 131,
@@ -1427,7 +1685,9 @@
     "discountedPrice": 11.2,
     "imageUrl": "https://images.asos-media.com/products/liars-lovers-exclusive-cross-body-mini-bag-in-grey-patent-mock-croc/13528619-1-multi?$n_480w$&amp;wid=476&amp;{fit=constrain",
     "lat": -23.54533828642738,
-    "lng": -46.63358224756194
+    "lng": -46.63358224756194,
+    "CO2": 79,
+    "hours": 24
   },
   {
     "id": 132,
@@ -1438,7 +1698,9 @@
     "discountedPrice": 77,
     "imageUrl": "https://images.asos-media.com/products/dkny-zip-around-purse-in-monogram-print/13721303-1-mochacaramel?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545751050233726,
-    "lng": -46.64132693574358
+    "lng": -46.64132693574358,
+    "CO2": 66,
+    "hours": 8
   },
   {
     "id": 133,
@@ -1449,7 +1711,9 @@
     "discountedPrice": 38.5,
     "imageUrl": "https://images.asos-media.com/products/vans-tote-bag-in-clear/13947620-1-clear?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543343,
-    "lng": -46.637777250000006
+    "lng": -46.637777250000006,
+    "CO2": 78,
+    "hours": 48
   },
   {
     "id": 134,
@@ -1460,7 +1724,9 @@
     "discountedPrice": 20.3,
     "imageUrl": "https://images.asos-media.com/products/ted-baker-vivekah-medium-wash-bag/14146419-1-pink?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547441373853093,
-    "lng": -46.63887208826244
+    "lng": -46.63887208826244,
+    "CO2": 60,
+    "hours": 13
   },
   {
     "id": 135,
@@ -1471,7 +1737,9 @@
     "discountedPrice": 16,
     "imageUrl": "https://images.asos-media.com/products/ted-baker-sofcon-soft-large-icon-bag/12927167-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547215717345587,
-    "lng": -46.63338619272009
+    "lng": -46.63338619272009,
+    "CO2": 65,
+    "hours": 32
   },
   {
     "id": 136,
@@ -1482,7 +1750,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/rains-large-wash-bag/10810837-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 50,
+    "hours": 10
   },
   {
     "id": 137,
@@ -1493,7 +1763,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/whistles-shiny-croc-leather-coin-purse/13100119-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544734636418685,
-    "lng": -46.64252349042071
+    "lng": -46.64252349042071,
+    "CO2": 96,
+    "hours": 38
   },
   {
     "id": 138,
@@ -1504,7 +1776,9 @@
     "discountedPrice": 41.3,
     "imageUrl": "https://images.asos-media.com/products/rains-msn-backpack/13415878-1-beige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552495528997667,
-    "lng": -46.632059999999996
+    "lng": -46.632059999999996,
+    "CO2": 71,
+    "hours": 10
   },
   {
     "id": 209,
@@ -1515,7 +1789,9 @@
     "discountedPrice": 50,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wedding-harris-tweed-slim-double-breasted-blazer-in-wool-large-scale-houndtooth/12256268-1-blue?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54731074271453,
-    "lng": -46.64142302885344
+    "lng": -46.64142302885344,
+    "CO2": 53,
+    "hours": 45
   },
   {
     "id": 210,
@@ -1526,7 +1802,9 @@
     "discountedPrice": 45,
     "imageUrl": "https://images.asos-media.com/products/nike-social-currency-logo-windbreaker-jacket-in-mint/12495474-1-mint?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542949999999962,
-    "lng": -46.63529999999997
+    "lng": -46.63529999999997,
+    "CO2": 50,
+    "hours": 24
   },
   {
     "id": 211,
@@ -1537,7 +1815,9 @@
     "discountedPrice": 52,
     "imageUrl": "https://images.asos-media.com/products/jack-jones-originals-hooded-puffer-jacket-with-patch-pockets-in-yellow/12889758-1-sunflower?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5398418758395,
-    "lng": -46.63514797691531
+    "lng": -46.63514797691531,
+    "CO2": 68,
+    "hours": 41
   },
   {
     "id": 212,
@@ -1548,7 +1828,9 @@
     "discountedPrice": 15.600000000000001,
     "imageUrl": "https://images.asos-media.com/products/topman-bomber-in-khaki/12903589-1-khaki?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540796722482114,
-    "lng": -46.63647342862273
+    "lng": -46.63647342862273,
+    "CO2": 77,
+    "hours": 21
   },
   {
     "id": 213,
@@ -1559,7 +1841,9 @@
     "discountedPrice": 90,
     "imageUrl": "https://images.asos-media.com/products/pretty-green-faux-shearling-aviator-jacket-in-black/13271579-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55223547100232,
-    "lng": -46.6284406588955
+    "lng": -46.6284406588955,
+    "CO2": 96,
+    "hours": 39
   },
   {
     "id": 214,
@@ -1570,7 +1854,9 @@
     "discountedPrice": 64.8,
     "imageUrl": "https://images.asos-media.com/products/celio-check-overcoat-in-grey/13520745-1-grey?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547416857608706,
-    "lng": -46.63636125131286
+    "lng": -46.63636125131286,
+    "CO2": 52,
+    "hours": 30
   },
   {
     "id": 215,
@@ -1581,7 +1867,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/jacamo-faux-suede-aviator-jacket-in-black/13536600-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54918735221301,
-    "lng": -46.644194604074144
+    "lng": -46.644194604074144,
+    "CO2": 67,
+    "hours": 0
   },
   {
     "id": 216,
@@ -1592,7 +1880,9 @@
     "discountedPrice": 28,
     "imageUrl": "https://images.asos-media.com/products/asos-design-skinny-blazer-with-cut-and-sew-lapel-in-black/13603942-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546340513734233,
-    "lng": -46.636238503202634
+    "lng": -46.636238503202634,
+    "CO2": 63,
+    "hours": 18
   },
   {
     "id": 217,
@@ -1603,7 +1893,9 @@
     "discountedPrice": 31.5,
     "imageUrl": "https://images.asos-media.com/products/the-north-face-100-glacier-1-4-zip-fleece-in-black/10253013-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.551889908967603,
-    "lng": -46.63105318887411
+    "lng": -46.63105318887411,
+    "CO2": 73,
+    "hours": 33
   },
   {
     "id": 218,
@@ -1614,7 +1906,9 @@
     "discountedPrice": 8.997,
     "imageUrl": "https://images.asos-media.com/products/new-look-puffer-jacket-in-black/11841116-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.538015199549932,
-    "lng": -46.631947411045076
+    "lng": -46.631947411045076,
+    "CO2": 75,
+    "hours": 4
   },
   {
     "id": 219,
@@ -1625,7 +1919,9 @@
     "discountedPrice": 36,
     "imageUrl": "https://images.asos-media.com/products/the-north-face-100-glacier-1-4-zip-fleece-in-grey/13069976-1-grey?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546908131282798,
-    "lng": -46.63939590146579
+    "lng": -46.63939590146579,
+    "CO2": 79,
+    "hours": 25
   },
   {
     "id": 220,
@@ -1636,7 +1932,9 @@
     "discountedPrice": 66,
     "imageUrl": "https://images.asos-media.com/products/siksilk-puffer-parka-jacket-with-faux-fur-hood-in-black/12740855-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546081127035535,
-    "lng": -46.64482029837157
+    "lng": -46.64482029837157,
+    "CO2": 56,
+    "hours": 36
   },
   {
     "id": 221,
@@ -1647,7 +1945,9 @@
     "discountedPrice": 11.995999999999999,
     "imageUrl": "https://images.asos-media.com/products/new-look-puffer-jacket-in-grey/11841130-1-grey?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542995562878023,
-    "lng": -46.63757566934563
+    "lng": -46.63757566934563,
+    "CO2": 91,
+    "hours": 28
   },
   {
     "id": 222,
@@ -1658,7 +1958,9 @@
     "discountedPrice": 36,
     "imageUrl": "https://images.asos-media.com/products/the-north-face-100-glacier-1-4-zip-fleece-in-urban-navy/13069312-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5439473297362,
-    "lng": -46.63739650167344
+    "lng": -46.63739650167344,
+    "CO2": 94,
+    "hours": 2
   },
   {
     "id": 223,
@@ -1669,7 +1971,9 @@
     "discountedPrice": 30,
     "imageUrl": "https://images.asos-media.com/products/asos-design-sustainable-puffer-parka-jacket-in-black/12831410-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 60,
+    "hours": 43
   },
   {
     "id": 224,
@@ -1680,7 +1984,9 @@
     "discountedPrice": 15.593999999999998,
     "imageUrl": "https://images.asos-media.com/products/pullbear-join-life-light-puffer-jacket-in-black/13547518-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54731074271453,
-    "lng": -46.64142302885344
+    "lng": -46.64142302885344,
+    "CO2": 84,
+    "hours": 19
   },
   {
     "id": 225,
@@ -1691,7 +1997,9 @@
     "discountedPrice": 42,
     "imageUrl": "https://images.asos-media.com/products/the-north-face-100-glacier-full-zip-fleece-in-black/10253003-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546381972243076,
-    "lng": -46.642893706619056
+    "lng": -46.642893706619056,
+    "CO2": 68,
+    "hours": 19
   },
   {
     "id": 226,
@@ -1702,7 +2010,9 @@
     "discountedPrice": 6,
     "imageUrl": "https://images.asos-media.com/products/asos-design-muscle-bomber-jacket-in-black/11809215-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542487362746506,
-    "lng": -46.64293486717402
+    "lng": -46.64293486717402,
+    "CO2": 92,
+    "hours": 11
   },
   {
     "id": 227,
@@ -1713,7 +2023,9 @@
     "discountedPrice": 10,
     "imageUrl": "https://images.asos-media.com/products/asos-design-utility-gilet-in-black/12097315-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542303065497162,
-    "lng": -46.64280268887412
+    "lng": -46.64280268887412,
+    "CO2": 79,
+    "hours": 49
   },
   {
     "id": 228,
@@ -1724,7 +2036,9 @@
     "discountedPrice": 32.5,
     "imageUrl": "https://images.asos-media.com/products/ellesse-lombardy-padded-jacket-in-black/8752491-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546690486964888,
-    "lng": -46.635446958807194
+    "lng": -46.635446958807194,
+    "CO2": 59,
+    "hours": 22
   },
   {
     "id": 229,
@@ -1735,7 +2049,9 @@
     "discountedPrice": 20,
     "imageUrl": "https://images.asos-media.com/products/ellesse-ion-overhead-jacket-with-reflective-logo-in-black/8631428-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547276880373964,
-    "lng": -46.6399237790698
+    "lng": -46.6399237790698,
+    "CO2": 69,
+    "hours": 33
   },
   {
     "id": 230,
@@ -1746,7 +2062,9 @@
     "discountedPrice": 72.5,
     "imageUrl": "https://images.asos-media.com/products/polo-ralph-lauren-harrington-jacket-in-beige/5576273-1-beige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55100661977027,
-    "lng": -46.6358718820474
+    "lng": -46.6358718820474,
+    "CO2": 63,
+    "hours": 45
   },
   {
     "id": 231,
@@ -1757,7 +2075,9 @@
     "discountedPrice": 20,
     "imageUrl": "https://images.asos-media.com/products/liquor-n-poker-tan-denim-jacket/7298331-1-tan?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54577819732822,
-    "lng": -46.64064024216627
+    "lng": -46.64064024216627,
+    "CO2": 63,
+    "hours": 12
   },
   {
     "id": 232,
@@ -1768,7 +2088,9 @@
     "discountedPrice": 90,
     "imageUrl": "https://images.asos-media.com/products/reclaimed-vintage-inspired-leather-biker-jacket-in-black/3955462-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54056295337295,
-    "lng": -46.632850401754254
+    "lng": -46.632850401754254,
+    "CO2": 67,
+    "hours": 13
   },
   {
     "id": 233,
@@ -1779,7 +2101,9 @@
     "discountedPrice": 65.4,
     "imageUrl": "https://images.asos-media.com/products/barbour-heritage-liddesdale-quilted-jacket-navy/12218927-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54900820122337,
-    "lng": -46.63452647668646
+    "lng": -46.63452647668646,
+    "CO2": 69,
+    "hours": 31
   },
   {
     "id": 234,
@@ -1790,7 +2114,9 @@
     "discountedPrice": 76.30000000000001,
     "imageUrl": "https://images.asos-media.com/products/barbour-heritage-liddesdale-quilted-jacket-in-olive/12218915-1-olive?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55166351540767,
-    "lng": -46.63125415903973
+    "lng": -46.63125415903973,
+    "CO2": 60,
+    "hours": 27
   },
   {
     "id": 235,
@@ -1801,7 +2127,9 @@
     "discountedPrice": 83.60000000000001,
     "imageUrl": "https://images.asos-media.com/products/barbour-ashby-wax-jacket-in-black/12218622-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55064182209015,
-    "lng": -46.634409790322515
+    "lng": -46.634409790322515,
+    "CO2": 95,
+    "hours": 28
   },
   {
     "id": 236,
@@ -1812,7 +2140,9 @@
     "discountedPrice": 146.3,
     "imageUrl": "https://images.asos-media.com/products/barbour-ashby-wax-jacket-navy/12218437-1-navy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543883072998984,
-    "lng": -46.63807493421437
+    "lng": -46.63807493421437,
+    "CO2": 95,
+    "hours": 12
   },
   {
     "id": 237,
@@ -1823,7 +2153,9 @@
     "discountedPrice": 45,
     "imageUrl": "https://images.asos-media.com/products/nike-running-aerolayer-jacket-in-black/12528483-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552495528997667,
-    "lng": -46.632059999999996
+    "lng": -46.632059999999996,
+    "CO2": 98,
+    "hours": 38
   },
   {
     "id": 238,
@@ -1834,7 +2166,9 @@
     "discountedPrice": 60,
     "imageUrl": "https://images.asos-media.com/products/nike-winter-fleece-gilet-in-black/12492282-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543712849558617,
-    "lng": -46.6402632336835
+    "lng": -46.6402632336835,
+    "CO2": 89,
+    "hours": 26
   },
   {
     "id": 239,
@@ -1845,7 +2179,9 @@
     "discountedPrice": 38.5,
     "imageUrl": "https://images.asos-media.com/products/nike-running-essentials-jacket-in-black/12528464-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54032130474925,
-    "lng": -46.636394815973325
+    "lng": -46.636394815973325,
+    "CO2": 91,
+    "hours": 48
   },
   {
     "id": 240,
@@ -1856,7 +2192,9 @@
     "discountedPrice": 38,
     "imageUrl": "https://images.asos-media.com/products/nike-winter-fleece-half-zip-overhead-jacket-in-khaki/12492296-1-khaki?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 87,
+    "hours": 12
   },
   {
     "id": 241,
@@ -1867,7 +2205,9 @@
     "discountedPrice": 69,
     "imageUrl": "https://images.asos-media.com/products/levis-cord-borg-trucker-jacket-in-black/11096453-1-blackcordbetter?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539920936547933,
-    "lng": -46.628347928793204
+    "lng": -46.628347928793204,
+    "CO2": 50,
+    "hours": 6
   },
   {
     "id": 242,
@@ -1878,7 +2218,9 @@
     "discountedPrice": 132,
     "imageUrl": "https://images.asos-media.com/products/religion-funnel-neck-asymmetric-overcoat-in-black/13243592-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.550115903139222,
-    "lng": -46.63512161420169
+    "lng": -46.63512161420169,
+    "CO2": 94,
+    "hours": 22
   },
   {
     "id": 243,
@@ -1889,7 +2231,9 @@
     "discountedPrice": 80.5,
     "imageUrl": "https://images.asos-media.com/products/levis-type-3-borg-lined-cord-trucker-jacket-in-true-chino/12545634-1-truechino?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544475407986656,
-    "lng": -46.64244051581169
+    "lng": -46.64244051581169,
+    "CO2": 57,
+    "hours": 19
   },
   {
     "id": 244,
@@ -1900,9 +2244,10 @@
     "discountedPrice": 42,
     "imageUrl": "https://images.asos-media.com/products/tommy-jeans-essential-hooded-puffer-jacket-in-black/13834375-1-tommyblack?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548723167349607,
-    "lng": -46.64160299584504
+    "lng": -46.64160299584504,
+    "CO2": 99,
+    "hours": 5
   },
-
   {
     "id": 139,
     "title": "Stellar embellished mid heels in black velvet",
@@ -1912,7 +2257,9 @@
     "discountedPrice": 24,
     "imageUrl": "https://images.asos-media.com/products/asos-design-stellar-embellished-mid-heels-in-black-velvet/12673850-1-blackvelvet?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545317917306143,
-    "lng": -46.64397479626647
+    "lng": -46.64397479626647,
+    "CO2": 89,
+    "hours": 29
   },
   {
     "id": 140,
@@ -1923,7 +2270,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-worthful-embellished-stiletto-heels-in-black-velvet/12767937-1-blackvelvet?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548801662502175,
-    "lng": -46.642373367043746
+    "lng": -46.642373367043746,
+    "CO2": 65,
+    "hours": 38
   },
   {
     "id": 141,
@@ -1934,7 +2283,9 @@
     "discountedPrice": 27,
     "imageUrl": "https://images.asos-media.com/products/asos-design-nuance-chunky-platform-in-sequin/12862806-1-sequin?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54043969776091,
-    "lng": -46.64371578005073
+    "lng": -46.64371578005073,
+    "CO2": 81,
+    "hours": 3
   },
   {
     "id": 142,
@@ -1945,7 +2296,9 @@
     "discountedPrice": 23.093000000000004,
     "imageUrl": "https://images.asos-media.com/products/public-desire-headliner-cigarette-heeled-sandal-in-white-croc/13427011-1-whitecrocpu?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54131144157196,
-    "lng": -46.64188583152521
+    "lng": -46.64188583152521,
+    "CO2": 79,
+    "hours": 40
   },
   {
     "id": 143,
@@ -1956,7 +2309,9 @@
     "discountedPrice": 20.993,
     "imageUrl": "https://images.asos-media.com/products/raid-nina-sling-back-heeled-shoes-in-black/13437917-1-blackmf?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545368575913177,
-    "lng": -46.64318283002467
+    "lng": -46.64318283002467,
+    "CO2": 68,
+    "hours": 30
   },
   {
     "id": 144,
@@ -1967,7 +2322,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/asos-design-necessary-slingback-high-heeled-sandals-in-dogtooth/12791673-1-dogtooth?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54675842186512,
-    "lng": -46.64577102790114
+    "lng": -46.64577102790114,
+    "CO2": 57,
+    "hours": 45
   },
   {
     "id": 145,
@@ -1978,7 +2335,9 @@
     "discountedPrice": 20.993,
     "imageUrl": "https://images.asos-media.com/products/raid-exclusive-aadhya-strappy-heeled-sandals-in-gold/13436819-1-gold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547154064948906,
-    "lng": -46.639547890501504
+    "lng": -46.639547890501504,
+    "CO2": 67,
+    "hours": 21
   },
   {
     "id": 146,
@@ -1989,7 +2348,9 @@
     "discountedPrice": 11.995999999999999,
     "imageUrl": "https://images.asos-media.com/products/raid-exclusive-aadhya-strappy-heeled-sandals-in-silver/13436827-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5439473297362,
-    "lng": -46.63739650167344
+    "lng": -46.63739650167344,
+    "CO2": 63,
+    "hours": 20
   },
   {
     "id": 147,
@@ -2000,7 +2361,9 @@
     "discountedPrice": 24.493000000000002,
     "imageUrl": "https://images.asos-media.com/products/raid-mecca-studded-heeled-shoes-in-black-patent/13437908-1-blackpatent?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54639669248079,
-    "lng": -46.643059340556235
+    "lng": -46.643059340556235,
+    "CO2": 57,
+    "hours": 27
   },
   {
     "id": 148,
@@ -2011,7 +2374,9 @@
     "discountedPrice": 17.994,
     "imageUrl": "https://images.asos-media.com/products/raid-wide-fit-aadhya-strappy-heeled-sandals-in-black-croc/13437926-1-blackcrocpu?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544896375238064,
-    "lng": -46.64201998306312
+    "lng": -46.64201998306312,
+    "CO2": 94,
+    "hours": 45
   },
   {
     "id": 149,
@@ -2022,7 +2387,9 @@
     "discountedPrice": 14.995,
     "imageUrl": "https://images.asos-media.com/products/raid-wide-fit-hazy-mid-heeled-shoes-in-black-snake/13437965-1-blacksnake?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54275397723474,
-    "lng": -46.641482026083494
+    "lng": -46.641482026083494,
+    "CO2": 66,
+    "hours": 17
   },
   {
     "id": 150,
@@ -2033,7 +2400,9 @@
     "discountedPrice": 36,
     "imageUrl": "https://images.asos-media.com/products/steve-madden-carrson-block-heeled-sandals-in-leopard/13473497-1-leopard?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.542303065497162,
-    "lng": -46.64280268887412
+    "lng": -46.64280268887412,
+    "CO2": 86,
+    "hours": 19
   },
   {
     "id": 151,
@@ -2044,7 +2413,9 @@
     "discountedPrice": 88.8,
     "imageUrl": "https://images.asos-media.com/products/free-people-leather-gramercy-platform-heeled-sandals/13511712-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54530659310986,
-    "lng": -46.636994571065735
+    "lng": -46.636994571065735,
+    "CO2": 90,
+    "hours": 44
   },
   {
     "id": 152,
@@ -2055,7 +2426,9 @@
     "discountedPrice": 10,
     "imageUrl": "https://images.asos-media.com/products/prettylittlething-block-heeled-sandals-in-snake/13762591-1-multi?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55188848459232,
-    "lng": -46.63008934096028
+    "lng": -46.63008934096028,
+    "CO2": 57,
+    "hours": 2
   },
   {
     "id": 153,
@@ -2066,7 +2439,9 @@
     "discountedPrice": 12.8,
     "imageUrl": "https://images.asos-media.com/products/topshop-heeled-slingback-shoes-in-burgundy/14048149-1-burgundy?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540176426812717,
-    "lng": -46.64415913591924
+    "lng": -46.64415913591924,
+    "CO2": 97,
+    "hours": 35
   },
   {
     "id": 154,
@@ -2077,7 +2452,9 @@
     "discountedPrice": 87,
     "imageUrl": "https://images.asos-media.com/products/steve-madden-winton-heeled-stiletto-boots-in-zebra-print/12365636-1-zebra?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544734636418685,
-    "lng": -46.64252349042071
+    "lng": -46.64252349042071,
+    "CO2": 89,
+    "hours": 16
   },
   {
     "id": 155,
@@ -2088,7 +2465,9 @@
     "discountedPrice": 22.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-north-embellished-heeled-sandals-in-green/12981479-1-green?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540111706359262,
-    "lng": -46.63701681043339
+    "lng": -46.63701681043339,
+    "CO2": 94,
+    "hours": 32
   },
   {
     "id": 156,
@@ -2099,7 +2478,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-pierce-stiletto-heels-with-toe-cap-in-bone-patent/13336582-1-bonepatent?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547052131282804,
-    "lng": -46.639477959749584
+    "lng": -46.639477959749584,
+    "CO2": 83,
+    "hours": 36
   },
   {
     "id": 157,
@@ -2110,7 +2491,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-penelope-embellished-stiletto-court-shoes-in-orange/12674795-1-orangerainbow?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552499510675812,
-    "lng": -46.630781025535214
+    "lng": -46.630781025535214,
+    "CO2": 50,
+    "hours": 8
   },
   {
     "id": 158,
@@ -2121,7 +2504,9 @@
     "discountedPrice": 20,
     "imageUrl": "https://images.asos-media.com/products/asos-design-perplex-pointed-platform-stiletto-heels-in-black-patent/12891656-1-blackpatent?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54472059810152,
-    "lng": -46.640515568959614
+    "lng": -46.640515568959614,
+    "CO2": 85,
+    "hours": 13
   },
   {
     "id": 159,
@@ -2132,7 +2517,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-hopscotch-platform-heeled-sandals-in-black/13360339-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548801662502175,
-    "lng": -46.642373367043746
+    "lng": -46.642373367043746,
+    "CO2": 63,
+    "hours": 25
   },
   {
     "id": 160,
@@ -2143,7 +2530,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/simply-be-wide-fit-sling-back-square-toe-block-heel-in-black/13723120-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5369582492354,
-    "lng": -46.63581027505907
+    "lng": -46.63581027505907,
+    "CO2": 95,
+    "hours": 14
   },
   {
     "id": 161,
@@ -2154,7 +2543,9 @@
     "discountedPrice": 18,
     "imageUrl": "https://images.asos-media.com/products/simply-be-extra-wide-fit-sling-back-square-toe-block-heel-in-black/13723088-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54985418067981,
-    "lng": -46.643139396906825
+    "lng": -46.643139396906825,
+    "CO2": 95,
+    "hours": 6
   },
   {
     "id": 162,
@@ -2165,7 +2556,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/simply-be-extra-wide-fit-diamante-sandals-with-block-heel-in-silver/13723395-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541389521053937,
-    "lng": -46.629899087812184
+    "lng": -46.629899087812184,
+    "CO2": 52,
+    "hours": 12
   },
   {
     "id": 163,
@@ -2176,7 +2569,9 @@
     "discountedPrice": 28,
     "imageUrl": "https://images.asos-media.com/products/asos-design-ellan-heeled-sock-boots-in-black/12148922-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.549610740492827,
-    "lng": -46.638350654452076
+    "lng": -46.638350654452076,
+    "CO2": 77,
+    "hours": 12
   },
   {
     "id": 164,
@@ -2187,7 +2582,9 @@
     "discountedPrice": 19.200000000000003,
     "imageUrl": "https://images.asos-media.com/products/asos-design-restore-leather-studded-block-heel-boots-in-black/12380300-1-blackleather?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541026814876787,
-    "lng": -46.63207068206479
+    "lng": -46.63207068206479,
+    "CO2": 85,
+    "hours": 48
   },
   {
     "id": 165,
@@ -2198,7 +2595,9 @@
     "discountedPrice": 15.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-rosie-neoprene-sock-boots-in-black/12148531-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54885719288482,
-    "lng": -46.64186497030983
+    "lng": -46.64186497030983,
+    "CO2": 57,
+    "hours": 16
   },
   {
     "id": 166,
@@ -2209,7 +2608,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/boohoo-exclusive-block-heel-over-the-knee-boots-in-black/12523511-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545626999163286,
-    "lng": -46.64140988467314
+    "lng": -46.64140988467314,
+    "CO2": 80,
+    "hours": 40
   },
   {
     "id": 167,
@@ -2220,7 +2621,9 @@
     "discountedPrice": 159.60000000000002,
     "imageUrl": "https://images.asos-media.com/products/allsaints-katy-lace-up-heeled-leather-boots-with-buckle/12028611-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.547307871775626,
-    "lng": -46.634251279358246
+    "lng": -46.634251279358246,
+    "CO2": 65,
+    "hours": 5
   },
   {
     "id": 168,
@@ -2231,7 +2634,9 @@
     "discountedPrice": 80.5,
     "imageUrl": "https://images.asos-media.com/products/ted-baker-secataa-metallic-heeled-sandals/13619877-1-gunmetal?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545948945322863,
-    "lng": -46.63350149901904
+    "lng": -46.63350149901904,
+    "CO2": 94,
+    "hours": 27
   },
   {
     "id": 169,
@@ -2242,7 +2647,9 @@
     "discountedPrice": 83.4,
     "imageUrl": "https://images.asos-media.com/products/ted-baker-samoir-strappy-heeled-sandals-with-bow/13816360-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.543883072998984,
-    "lng": -46.63807493421437
+    "lng": -46.63807493421437,
+    "CO2": 59,
+    "hours": 48
   },
   {
     "id": 170,
@@ -2253,7 +2660,9 @@
     "discountedPrice": 103.2,
     "imageUrl": "https://images.asos-media.com/products/whistles-ayres-metallic-cross-strap-mule-sandals/13655542-1-gold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539167607276784,
-    "lng": -46.63524162031853
+    "lng": -46.63524162031853,
+    "CO2": 90,
+    "hours": 0
   },
   {
     "id": 171,
@@ -2264,7 +2673,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/simply-be-wide-fit-diamante-sandals-with-block-heel-in-silver/13723397-1-silver?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548339277829033,
-    "lng": -46.63800653788448
+    "lng": -46.63800653788448,
+    "CO2": 65,
+    "hours": 18
   },
   {
     "id": 172,
@@ -2275,7 +2686,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/simply-be-wide-fit-open-back-pointed-boots-in-black/13723399-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540505663338884,
-    "lng": -46.63541486857297
+    "lng": -46.63541486857297,
+    "CO2": 82,
+    "hours": 2
   },
   {
     "id": 173,
@@ -2286,7 +2699,9 @@
     "discountedPrice": 27,
     "imageUrl": "https://images.asos-media.com/products/prettylittlething-over-the-knee-high-heeled-slouchy-boot-in-black/13762599-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545047855675463,
-    "lng": -46.64317276879801
+    "lng": -46.64317276879801,
+    "CO2": 63,
+    "hours": 13
   },
   {
     "id": 174,
@@ -2297,7 +2712,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-haywire-embellished-heeled-sandals-in-black/12673192-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54043969776091,
-    "lng": -46.64371578005073
+    "lng": -46.64371578005073,
+    "CO2": 64,
+    "hours": 1
   },
   {
     "id": 175,
@@ -2308,7 +2725,9 @@
     "discountedPrice": 8,
     "imageUrl": "https://images.asos-media.com/products/asos-design-nova-barely-there-heeled-sandals-in-black/13025570-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544497629753593,
-    "lng": -46.631461751457095
+    "lng": -46.631461751457095,
+    "CO2": 69,
+    "hours": 44
   },
   {
     "id": 176,
@@ -2319,7 +2738,9 @@
     "discountedPrice": 23.991999999999997,
     "imageUrl": "https://images.asos-media.com/products/public-desire-alia-clear-strap-heeled-sandals/12384705-1-beige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.538363904524203,
-    "lng": -46.63293009824575
+    "lng": -46.63293009824575,
+    "CO2": 74,
+    "hours": 23
   },
   {
     "id": 177,
@@ -2330,7 +2751,9 @@
     "discountedPrice": 7.996,
     "imageUrl": "https://images.asos-media.com/products/new-look-block-heel-sandal-in-black/12019863-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545165891770928,
-    "lng": -46.643785796266464
+    "lng": -46.643785796266464,
+    "CO2": 72,
+    "hours": 35
   },
   {
     "id": 178,
@@ -2341,7 +2764,9 @@
     "discountedPrice": 10.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-enhance-block-heel-sock-boots-in-black-knit/12713871-1-blackknit?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546156574239742,
-    "lng": -46.63988527422235
+    "lng": -46.63988527422235,
+    "CO2": 98,
+    "hours": 31
   },
   {
     "id": 179,
@@ -2352,7 +2777,9 @@
     "discountedPrice": 59.60000000000001,
     "imageUrl": "https://images.asos-media.com/products/dr-martens-shriver-hi-wyoming-heeled-ankle-boots-in-black/11838294-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548900652778652,
-    "lng": -46.63715701234924
+    "lng": -46.63715701234924,
+    "CO2": 99,
+    "hours": 38
   },
   {
     "id": 180,
@@ -2363,7 +2790,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-hark-clear-barely-there-block-heeled-sandals/11739741-1-clearbeige?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.541853610425484,
-    "lng": -46.63513727589531
+    "lng": -46.63513727589531,
+    "CO2": 68,
+    "hours": 3
   },
   {
     "id": 181,
@@ -2374,7 +2803,9 @@
     "discountedPrice": 24.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-elliot-western-ankle-boots-in-black-croc/12203762-1-blackcroc?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.544667372468112,
-    "lng": -46.64066942714524
+    "lng": -46.64066942714524,
+    "CO2": 99,
+    "hours": 18
   },
   {
     "id": 182,
@@ -2385,7 +2816,9 @@
     "discountedPrice": 12,
     "imageUrl": "https://images.asos-media.com/products/boohoo-exclusive-flared-heel-boots-with-square-toe-in-black-croc/12641713-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55173348265909,
-    "lng": -46.630302710110165
+    "lng": -46.630302710110165,
+    "CO2": 89,
+    "hours": 20
   },
   {
     "id": 183,
@@ -2396,7 +2829,9 @@
     "discountedPrice": 10.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-wow-embellished-slingback-mid-heeled-sandals-in-black/12876984-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545450466558925,
-    "lng": -46.63565673674192
+    "lng": -46.63565673674192,
+    "CO2": 81,
+    "hours": 11
   },
   {
     "id": 184,
@@ -2407,7 +2842,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-standout-embellished-kitten-heels-in-bright-orange-multi/12732015-1-brightorangemulti?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54904445268046,
-    "lng": -46.63518261226844
+    "lng": -46.63518261226844,
+    "CO2": 65,
+    "hours": 27
   },
   {
     "id": 185,
@@ -2418,7 +2855,9 @@
     "discountedPrice": 32,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-estonia-slouch-ankle-boots-in-tan/12772603-1-tan?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54947149598929,
-    "lng": -46.637403877748234
+    "lng": -46.637403877748234,
+    "CO2": 52,
+    "hours": 21
   },
   {
     "id": 186,
@@ -2429,7 +2868,9 @@
     "discountedPrice": 17.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-strallen-mary-jane-mid-heels-in-pink-gingham/13164064-1-pinkgingham?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54535489177092,
-    "lng": -46.644014321801684
+    "lng": -46.644014321801684,
+    "CO2": 69,
+    "hours": 31
   },
   {
     "id": 187,
@@ -2440,7 +2881,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-penley-slingback-high-heels-in-black/11277421-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54472059810152,
-    "lng": -46.640515568959614
+    "lng": -46.640515568959614,
+    "CO2": 70,
+    "hours": 45
   },
   {
     "id": 188,
@@ -2451,7 +2894,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-whisper-high-stiletto-heels-in-black/12677227-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548487627243432,
-    "lng": -46.640686594090816
+    "lng": -46.640686594090816,
+    "CO2": 58,
+    "hours": 11
   },
   {
     "id": 189,
@@ -2462,7 +2907,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-nutshell-platform-barely-there-heeled-sandals-in-black/12350451-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545561222863455,
-    "lng": -46.640338742166264
+    "lng": -46.640338742166264,
+    "CO2": 86,
+    "hours": 39
   },
   {
     "id": 190,
@@ -2473,7 +2920,9 @@
     "discountedPrice": 11.2,
     "imageUrl": "https://images.asos-media.com/products/asos-design-nutshell-platform-barely-there-heeled-sandals-in-black/12349616-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55073674632121,
-    "lng": -46.64337116570483
+    "lng": -46.64337116570483,
+    "CO2": 62,
+    "hours": 9
   },
   {
     "id": 191,
@@ -2484,7 +2933,9 @@
     "discountedPrice": 20,
     "imageUrl": "https://images.asos-media.com/products/asos-design-porto-pointed-high-heeled-court-shoes-in-black-patent/10989611-1-blackpatent?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.55015993031922,
-    "lng": -46.63146540189848
+    "lng": -46.63146540189848,
+    "CO2": 62,
+    "hours": 23
   },
   {
     "id": 192,
@@ -2495,7 +2946,9 @@
     "discountedPrice": 7.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-samson-slingback-mid-heels-in-black/11128188-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.552495528997667,
-    "lng": -46.632059999999996
+    "lng": -46.632059999999996,
+    "CO2": 61,
+    "hours": 45
   },
   {
     "id": 193,
@@ -2506,7 +2959,9 @@
     "discountedPrice": 17.493,
     "imageUrl": "https://images.asos-media.com/products/raid-wink-black-square-toe-block-heeled-sandals/11608603-1-blackmicro?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548758390789974,
-    "lng": -46.6384109454671
+    "lng": -46.6384109454671,
+    "CO2": 51,
+    "hours": 7
   },
   {
     "id": 194,
@@ -2517,7 +2972,9 @@
     "discountedPrice": 10,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-nova-barely-there-heeled-sandals-in-rose-gold/13332619-1-rosegold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54874766250217,
-    "lng": -46.64239136704376
+    "lng": -46.64239136704376,
+    "CO2": 66,
+    "hours": 37
   },
   {
     "id": 195,
@@ -2528,7 +2985,9 @@
     "discountedPrice": 14,
     "imageUrl": "https://images.asos-media.com/products/asos-design-wide-fit-nova-barely-there-heeled-sandals-in-black/13147397-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54701177397665,
-    "lng": -46.634828728075746
+    "lng": -46.634828728075746,
+    "CO2": 78,
+    "hours": 15
   },
   {
     "id": 196,
@@ -2539,7 +2998,9 @@
     "discountedPrice": 7.996,
     "imageUrl": "https://images.asos-media.com/products/new-look-heeled-sandals-with-clear-detail-in-beige/13192769-1-tan?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.538399296150907,
-    "lng": -46.632887607680814
+    "lng": -46.632887607680814,
+    "CO2": 72,
+    "hours": 17
   },
   {
     "id": 197,
@@ -2550,7 +3011,9 @@
     "discountedPrice": 15,
     "imageUrl": "https://images.asos-media.com/products/asos-design-hong-kong-barely-there-block-heeled-sandals-in-rose-gold/10233575-1-rosegold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548957805989996,
-    "lng": -46.63455515820299
+    "lng": -46.63455515820299,
+    "CO2": 86,
+    "hours": 1
   },
   {
     "id": 198,
@@ -2561,7 +3024,9 @@
     "discountedPrice": 21,
     "imageUrl": "https://images.asos-media.com/products/asos-design-notorious-strappy-heeled-sandals-in-black/12834884-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546420999999995,
-    "lng": -46.63436151110851
+    "lng": -46.63436151110851,
+    "CO2": 82,
+    "hours": 48
   },
   {
     "id": 199,
@@ -2572,7 +3037,9 @@
     "discountedPrice": 16.8,
     "imageUrl": "https://images.asos-media.com/products/glamorous-gold-block-heel-sandals/11666964-1-gold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.545047855675463,
-    "lng": -46.64317276879801
+    "lng": -46.64317276879801,
+    "CO2": 89,
+    "hours": 26
   },
   {
     "id": 200,
@@ -2583,7 +3050,9 @@
     "discountedPrice": 15.4,
     "imageUrl": "https://images.asos-media.com/products/glamorous-silver-mirror-barely-there-heeled-sandal/9701801-1-silvermirror?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546817419095163,
-    "lng": -46.64537999999999
+    "lng": -46.64537999999999,
+    "CO2": 97,
+    "hours": 10
   },
   {
     "id": 201,
@@ -2594,7 +3063,9 @@
     "discountedPrice": 11.995999999999999,
     "imageUrl": "https://images.asos-media.com/products/public-desire-classy-black-tie-up-heeled-shoes/12240185-1-blacksuede?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.54944327061568,
-    "lng": -46.63234970260834
+    "lng": -46.63234970260834,
+    "CO2": 63,
+    "hours": 35
   },
   {
     "id": 202,
@@ -2605,7 +3076,9 @@
     "discountedPrice": 10.5,
     "imageUrl": "https://images.asos-media.com/products/asos-design-enhance-block-heel-sock-boots-in-black-knit/12692366-1-blackknit?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.540204555658082,
-    "lng": -46.644147057043064
+    "lng": -46.644147057043064,
+    "CO2": 72,
+    "hours": 13
   },
   {
     "id": 203,
@@ -2616,7 +3089,9 @@
     "discountedPrice": 11.994,
     "imageUrl": "https://images.asos-media.com/products/new-look-clear-strap-heeled-sandals-in-black/13554412-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.548723167349607,
-    "lng": -46.64160299584504
+    "lng": -46.64160299584504,
+    "CO2": 64,
+    "hours": 46
   },
   {
     "id": 204,
@@ -2627,7 +3102,9 @@
     "discountedPrice": 9.995,
     "imageUrl": "https://images.asos-media.com/products/new-look-wide-fit-heeled-sandals-in-black/12876708-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.539167607276784,
-    "lng": -46.63524162031853
+    "lng": -46.63524162031853,
+    "CO2": 63,
+    "hours": 29
   },
   {
     "id": 205,
@@ -2638,7 +3115,9 @@
     "discountedPrice": 17.6,
     "imageUrl": "https://images.asos-media.com/products/glamorous-barely-there-heeled-sandals-in-gold/11666960-1-gold?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.5502592536788,
-    "lng": -46.63635993588781
+    "lng": -46.63635993588781,
+    "CO2": 85,
+    "hours": 30
   },
   {
     "id": 206,
@@ -2649,7 +3128,9 @@
     "discountedPrice": 16.793999999999997,
     "imageUrl": "https://images.asos-media.com/products/new-look-wide-fit-faux-suede-heeled-chelsea-boots-in-black/12862351-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.550497706907514,
-    "lng": -46.63433817805407
+    "lng": -46.63433817805407,
+    "CO2": 82,
+    "hours": 45
   },
   {
     "id": 207,
@@ -2660,7 +3141,9 @@
     "discountedPrice": 15.2,
     "imageUrl": "https://images.asos-media.com/products/glamorous-black-stiletto-heel-sock-boots/12499511-1-black?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.546537098534216,
-    "lng": -46.63917496696296
+    "lng": -46.63917496696296,
+    "CO2": 60,
+    "hours": 14
   },
   {
     "id": 208,
@@ -2671,6 +3154,8 @@
     "discountedPrice": 17.495,
     "imageUrl": "https://images.asos-media.com/products/raid-lillian-black-pull-on-pointed-sock-boots/12445100-1-blacklycra?$n_480w$&amp;wid=476&amp;fit=constrain",
     "lat": -23.551854317790983,
-    "lng": -46.62920011656761
+    "lng": -46.62920011656761,
+    "CO2": 85,
+    "hours": 40
   }
 ]

@@ -13,6 +13,8 @@ const Product = ({
   id,
   productName,
   shopName,
+  CO2,
+  hours,
   productImg,
   originalPrice,
   newPrice,
@@ -28,8 +30,7 @@ const Product = ({
           <h1>{shopName}</h1>
           <h2>{productName}</h2>
           <p style={{ fontSize: "1.2em", textAlign: "left" }}>
-            <i class="fas fa-clock"></i> {Math.floor(Math.random() * 50)} hours
-            left
+            <i class="fas fa-clock"></i> {hours} hours left
           </p>
         </div>
       </div>
@@ -41,7 +42,7 @@ const Product = ({
                 <span style={{ color: "green" }}>
                   <i class="fas fa-leaf"></i>{" "}
                 </span>
-                {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+                {CO2}g CO<sub>2</sub> saved
               </p>
             </div>
             <br />
