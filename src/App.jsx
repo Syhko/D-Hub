@@ -4,6 +4,8 @@ import Listing from "./components/Listing";
 import ProductFilter from "./components/ProductFilter";
 import "./App.scss";
 import data from "./data/products.json";
+import { isMobile } from "react-device-detect";
+import MobilePage from "./Mobile/MobilePage";
 
 const App = () => {
   const [category, setCategory] = React.useState("Women");
@@ -20,7 +22,7 @@ const App = () => {
     title: product.title,
     imageUrl: product.imageUrl
   }));
-  return (
+  return !isMobile ? (
     <div className="app-wrapper">
       <div className="main-banner">
         <h1>SAVELET</h1>
@@ -42,6 +44,13 @@ const App = () => {
         />
       </div>
     </div>
+  ) : (
+    <MobilePage
+      categories={categories}
+      selectCategory={selectCategory}
+      products={data}
+      category={category}
+    ></MobilePage>
   );
 };
 
