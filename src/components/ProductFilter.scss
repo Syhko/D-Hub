@@ -1,0 +1,33 @@
+.product-filter-wrapper {
+  height: 10vh;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.label {
+  height: 40px;
+  width: fit-content;
+  padding: 0px 20px 0 20px;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: auto 0;
+  display: flex;
+  justify-content: center;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+
+.label:hover {
+  border: 2px solid grey;
+}
+
+.label:focus {
+  border: 2px solid grey;
+}
+
+.label p {
+  margin: auto;
+  color: #aaa;
+}
