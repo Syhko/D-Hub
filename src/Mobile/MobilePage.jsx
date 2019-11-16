@@ -14,7 +14,7 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 				}}
 			>
 				<div style={{ margin: 'auto', width: '10vw' }}>
-					<img src="savelet.png" style={{ width: '5vh', height: '5vh', margin: 'auto' }}></img>
+					<img src="savelet.png" style={{ width: '5vh', height: '5vh', margin: 'auto', zIndex: 5 }}></img>
 				</div>
 			</div>
 			<div
@@ -41,12 +41,14 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 						style={{
 							width: '100%',
 							height: '5vh',
-							position: 'sticky',
-							top: 0,
+							position: 'fixed',
 							background: 'white',
 							zIndex: 1,
 							marginLeft: '2%',
 							borderBottom: '2px solid lightgrey',
+							top: '6vh',
+							opacity: category ? 1 : 0,
+							transition: 'opacity 0.5s ease-in',
 						}}
 						onClick={() => selectCategory(null)}
 					>

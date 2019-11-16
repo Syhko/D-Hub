@@ -2,7 +2,7 @@ import React from 'react';
 
 const BuyButton = () => {
 	return (
-		<div className="buy-button">
+		<div className="buy-button" style={{ borderColor: 'black' }}>
 			<p>Buy</p>
 		</div>
 	);
@@ -21,6 +21,8 @@ const Product = ({ productName, shopName, productImg, originalPrice, newPrice, d
 				flexDirection: 'column',
 				justifyContent: 'space-evenly',
 				padding: '0%',
+				backgroundColor: 'whitesmoke',
+				boxShadow: '2px 2px 10px lightgrey',
 			}}
 		>
 			<div style={{ width: '100%', display: 'flex', justifyContent: 'space-between', flexDirection: 'row' }}>
@@ -39,7 +41,7 @@ const Product = ({ productName, shopName, productImg, originalPrice, newPrice, d
 					borderTop: '2px solid grey',
 				}}
 			>
-				<div style={{ float: 'right', padding: '2%' }}>
+				<div style={{ float: 'right', padding: '5%' }}>
 					<div>
 						<span style={{ textDecoration: 'line-through' }}>{Math.floor(originalPrice)} SEK</span>{' '}
 						{Math.floor(newPrice)} SEK
