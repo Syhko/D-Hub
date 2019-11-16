@@ -1,22 +1,24 @@
-.App {
+.app-wrapper {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
 }
 
 .main-banner {
   width: 100vw;
-  height: 10vh;
-  background-color: #1a346a;
+  height: 20vh;
   display: flex;
+  flex-direction: column;
 }
 
 .main-banner h1 {
   text-align: center;
   margin: auto 0;
   width: 30%;
-  color: #e3e3e3;
+  color: #a3a3a3;
 }
 
-.map-container {
-  width: 80vw;
-  height: 100vh;
+.body-wrapper {
+  display: flex;
+  flex-direction: row;
 }
