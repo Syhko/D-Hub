@@ -1,7 +1,7 @@
 .product-wrapper {
   margin: 10px;
-  height: 250px;
-  background-color: #eee;
+  height: 220px;
+  background-color: #e5e5e550;
   display: flex;
   flex-direction: row;
   cursor: pointer;
@@ -16,13 +16,13 @@
   height: 100%;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: flex-start;
 }
 
 .left-wrapper img {
+  margin: 0px;
   width: 170px;
-  height: 200px;
-  margin: auto 10px;
+  height: 100%;
 }
 
 .seller-info {
@@ -30,14 +30,19 @@
   flex-direction: column;
   justify-content: center;
   max-width: 200px;
+  margin-left: 20px;
+}
+
+.seller-info h1 {
+  font-size: 1.3em;
+  text-align: left;
+  color: #888;
+  font-style: italic;
 }
 
 .seller-info h2 {
-  font-size: 2em;
-}
-
-.seller-info h3 {
-  font-size: 1.5em;
+  font-size: 1.4em;
+  text-align: left;
 }
 
 .right-wrapper {
@@ -48,6 +53,12 @@
   justify-content: space-evenly;
 }
 
+.right-wrapper-column-price {
+  display: flex;
+  flex-direction: column;
+  margin: auto 0;
+}
+
 .right-wrapper-column {
   display: flex;
   flex-direction: column;
@@ -56,21 +67,21 @@
 
 .right-wrapper-column div {
   margin: auto;
-  font-size: 1.6em;
+  font-size: 1.3em;
 }
 
 .previous-price {
   text-decoration: line-through;
-  color: red;
+  color: #aaa;
 }
 
 .new-price {
-  color: green;
+  color: #333;
   font-weight: 600;
 }
 
 .buy-button {
-  width: 100px;
+  width: 120px;
   height: 40px;
   border: 2px solid green;
   border-radius: 20px;

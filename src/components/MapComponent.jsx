@@ -73,7 +73,7 @@ const MapComponent = ({ locations, selectedProductId }) => {
   return (
     <div className="map-container">
       <Map
-        style="mapbox://styles/mapbox/streets-v9"
+        style="mapbox://styles/mapbox/basic-v8"
         center={center}
         movingMethod="flyTo"
         flyToOptions={{
@@ -85,7 +85,7 @@ const MapComponent = ({ locations, selectedProductId }) => {
         }}
         zoom={zoom}
       >
-        <Layer type="symbol" layout={{ "icon-image": "shop-11" }}>
+        <Layer type="symbol" layout={{ "icon-image": "marker-11" }}>
           {Positions(locations)}
         </Layer>
         {popup && (
