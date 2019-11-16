@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"title": "Script Ring - Silver",
+		"shop_name": "Biko",
+		"logo_url": "https://cdn.shopify.com/s/files/1/0068/1062/t/6/assets/logo_2x.png?1005",
+		"product_image_url": "https://cdn.shopify.com/s/files/1/0068/1062/products/ScriptRing-silver_1024x1024.jpg?v=1517930373",
+		"original_price": 60,
+		"new_price": 40
+	},
+	{
+		"id": 2,
+		"title": "Minimal Card Wallet",
+		"shop_name": "Tanner Goods",
+		"logo_url": "https://tannergoods.eu/",
+		"product_image_url": "https://cdn.shopify.com/s/files/1/0002/8337/7721/products/Tanner-Goods-Remix91-Minimal-thumb_400x.jpg?v=1562876915",
+		"original_price": 60,
+		"new_price": 40
+	},
+	{
+		"id": 3,
+		"title": "Studio Neat Mark One",
+		"shop_name": "Mac knives",
+		"logo_url": "https://cdn.shopify.com/s/files/1/1451/0934/t/11/assets/logo.png?24",
+		"product_image_url": "https://cdn.shopify.com/s/files/1/1451/0934/products/PK-40_grande.jpg?v=1527265656",
+		"original_price": 30,
+		"new_price": 15
+	},
+	{
+		"id": 4,
+		"title": "Nanette Boot Size 39",
+		"shop_name": "House of Holland",
+		"logo_url": "https://cdn.shopify.com/s/files/1/0089/8632/t/20/assets/logo.png?1182",
+		"product_image_url": "https://cdn.shopify.com/s/files/1/0089/8632/products/190211_HOUSE_OF_HOLLAND_E19021768_1024x.jpg?v=1571438628",
+		"original_price": 350,
+		"new_price": 250
+	},
+	{
+		"id": 5,
+		"title": "adidas Originals",
+		"shop_name": "Zalando",
+		"logo_url": "https://mosaic02.ztat.net/nvg/z-header-fragment/zalando-logo/logo_default.svg",
+		"product_image_url": "https://mosaic03.ztat.net/vgs/media/catalog1/AD/15/4O/05/8Q/11/AD154O058-Q11@8.jpg",
+		"original_price": 30,
+		"new_price": 10
+	}
+]
