@@ -1,7 +1,7 @@
 import React from "react";
 import "./BuyModal.scss";
 
-const BuyModal = () => {
+const BuyModal = ({ handleClose }) => {
   const [validate, setValidate] = React.useState(false);
   return (
     <>
@@ -21,7 +21,15 @@ const BuyModal = () => {
         )}
         {validate && (
           <div className="validation">
-            <p>Thanks</p>
+            <h2>
+              Thanks for your purchase
+              <br />
+              <br />
+              Your package should arrive under 7 days
+            </h2>
+            <div className="validation-button" onClick={handleClose}>
+              <p>Back to store</p>
+            </div>
           </div>
         )}
       </div>

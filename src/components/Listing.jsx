@@ -3,7 +3,7 @@ import "./Listing.scss";
 import Product from "./Product";
 import BuyModal from "./BuyModal";
 
-const ProductList = ({ products, filter, handleHover }) => {
+const ProductList = ({ products, filter, handleHover, handleOpen }) => {
   return products
     .filter(product => product.department === filter)
     .map(product => (
@@ -17,18 +17,21 @@ const ProductList = ({ products, filter, handleHover }) => {
         newPrice={product.discountedPrice}
         originalPrice={product.originalPrice}
         handleHover={id => handleHover(id)}
+        handleOpen={handleOpen}
       />
     ));
 };
 
-const Listing = ({ products, filter, handleHover }) => {
+const Listing = ({ products, filter, handleHover, handleOpen }) => {
+  const [modal, setModal] = React.useState(false);
   return (
     <div className="listing-wrapper">
-      <BuyModal />
+      {modal && <BuyModal handleClose={() => setModal(false)} />}
       <ProductList
         products={products}
         filter={filter}
         handleHover={id => handleHover(id)}
+        handleOpen={() => setModal(true)}
       />
     </div>
   );

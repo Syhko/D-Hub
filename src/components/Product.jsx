@@ -1,9 +1,9 @@
 import React from "react";
 import "./Product.scss";
 
-const BuyButton = () => {
+const BuyButton = ({ handleOpen }) => {
   return (
-    <div className="buy-button">
+    <div className="buy-button" onClick={handleOpen}>
       <p>Buy</p>
     </div>
   );
@@ -17,7 +17,8 @@ const Product = ({
   originalPrice,
   newPrice,
   department,
-  handleHover
+  handleHover,
+  handleOpen
 }) => {
   return (
     <div className="product-wrapper" onClick={() => handleHover(id)}>
@@ -35,7 +36,7 @@ const Product = ({
             <div className="new-price">{Math.floor(newPrice)} €</div>
           </div>
 
-          <BuyButton />
+          <BuyButton handleOpen={handleOpen} />
         </div>
       </div>
     </div>
