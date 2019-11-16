@@ -1,9 +1,9 @@
 import React from "react";
 import "./Product.scss";
 
-const BuyButton = ({ handleOpen }) => {
+const BuyButton = ({ handleOpen, CO2 }) => {
   return (
-    <div className="buy-button" onClick={handleOpen}>
+    <div className="buy-button" onClick={() => handleOpen({ CO2 })}>
       <p>Buy</p>
     </div>
   );
@@ -54,7 +54,7 @@ const Product = ({
             </div>
           </div>
 
-          <BuyButton handleOpen={handleOpen} />
+          <BuyButton handleOpen={handleOpen} CO2={CO2} />
         </div>
       </div>
     </div>
