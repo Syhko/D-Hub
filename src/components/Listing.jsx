@@ -14,6 +14,8 @@ const ProductList = ({ products, filter, handleHover, handleOpen }) => {
         productName={product.title}
         department={product.department}
         shopName={product.shop}
+        CO2={product.CO2}
+        hours={product.hours}
         productImg={product.imageUrl}
         newPrice={product.discountedPrice}
         originalPrice={product.originalPrice}
