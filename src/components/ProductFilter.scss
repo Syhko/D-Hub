@@ -3,7 +3,7 @@
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   overflow: auto;
 }
 
@@ -34,9 +34,9 @@
 }
 
 .selected-label p {
-     margin: auto;
+  margin: auto;
   color: #fff;
- 
+  font-size: 1em;
 }
 
 .label:hover {
@@ -46,4 +46,5 @@
 .label p {
   margin: auto;
   color: #aaa;
+  font-size: 1em;
 }
