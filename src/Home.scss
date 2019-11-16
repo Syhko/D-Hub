@@ -17,6 +17,7 @@
   font-style: italic;
   font-size: 46px;
   margin: auto;
+  text-align: center;
 }
 
 .parallax-one {
@@ -40,6 +41,12 @@
 
 .scroll-one p {
   padding: 7vw;
+  @media screen and (min-width: 800px) {
+    font-size: 2em;
+  }
+  @media screen and (max-width: 800px) {
+    font-size: 1.5em;
+  }
 }
 
 .leaning-banner {
@@ -47,10 +54,8 @@
   position: relative;
   height: 60vh;
   background-color: #d2d2d2;
-}
-
-.leaning-banner div {
-  padding: 5vw 2vw 5vw 50vw;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .leaning-banner::before {
@@ -64,8 +69,37 @@
 }
 
 .find-button {
-  width: 5vw;
-  height: 5vh;
-  border-radius: 20px;
-  background-color: green;
+  border-radius: 30px;
+  background-color: #555;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  @media screen and (min-width: 800px) {
+    width: 40vw;
+    height: 13vh;
+  }
+  @media screen and (max-width: 800px) {
+    width: 60vw;
+    height: 13vh;
+  }
+}
+
+.find-button:hover {
+  box-shadow: 0px 0px 10px black;
+}
+
+.find-button p {
+  color: #fff;
+  margin: auto;
+  font-size: 2.5em;
+  font-weight: 600;
+}
+
+.link {
+  margin: 5vw;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: none;
 }

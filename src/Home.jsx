@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.scss";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -10,14 +11,19 @@ const Home = () => {
       </div>
       <div className="scroll-one">
         <p>
-          SALUT CEST NOUS SALUT CEST NOUS SALUT CEST NOUS SALUT CEST NOUS SALUT
-          CEST NOUS
+          Return systems today are so expensive that this could in many cases
+          save retailers across the globe billions of dollars and considerably
+          shorten lead times in urban areas. The savings would be redistributed
+          to the customers to reward them for their proactive and sustainable
+          approach.
         </p>
       </div>
       <div className="leaning-banner">
-        <div>
-          <div className="find-button"></div>
-        </div>
+        <Link to="/find" className="link">
+          <div className="find-button">
+            <p>DISCOVER NOW</p>
+          </div>
+        </Link>
       </div>
     </div>
   );
