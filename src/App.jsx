@@ -9,7 +9,7 @@ import MobilePage from "./Mobile/MobilePage";
 import { Link } from "react-router-dom";
 
 const App = () => {
-  const [category, setCategory] = React.useState("Women");
+  const [category, setCategory] = React.useState("Women's dresses");
   const [selectedProductId, setSelectedProductId] = React.useState(null);
 
   const categories = [...new Set(data.map(product => product.department))];

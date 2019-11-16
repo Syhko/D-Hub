@@ -1,6 +1,7 @@
 import React from "react";
 import "./Listing.scss";
 import Product from "./Product";
+import BuyModal from "./BuyModal";
 
 const ProductList = ({ products, filter, handleHover }) => {
   return products
@@ -23,6 +24,7 @@ const ProductList = ({ products, filter, handleHover }) => {
 const Listing = ({ products, filter, handleHover }) => {
   return (
     <div className="listing-wrapper">
+      <BuyModal />
       <ProductList
         products={products}
         filter={filter}
