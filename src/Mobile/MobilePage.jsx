@@ -53,7 +53,7 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 						onClick={() => selectCategory(null)}
 					>
 						<div>
-							<h4>{category}</h4>
+							<h4>☰ {category}</h4>
 						</div>
 					</div>
 					<div style={{ width: '100%' }}>

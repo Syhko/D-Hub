@@ -34,7 +34,7 @@ function chunkify(a, n, balanced) {
 const ProductLabel = ({ key, department, handleFilter, filter }) => {
 	return (
 		<div
-			style={{ opacity: filter ? (filter === department ? 1 : 0) : 1, transition: 'opacity 0.5s ease-out' }}
+			style={{ opacity: filter ? (filter === department ? 0 : 0) : 1, transition: 'opacity 0.1s ease-out' }}
 			onClick={() => handleFilter(department)}
 		>
 			<h4>{department}</h4>

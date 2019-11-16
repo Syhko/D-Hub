@@ -1,9 +1,12 @@
 import React from 'react';
+import BuyModal from '../components/BuyModal';
 
 const BuyButton = () => {
+	const [isBought, setIsBought] = React.useState(false);
 	return (
 		<div className="buy-button" style={{ borderColor: 'black' }}>
-			<p>Buy</p>
+			{isBought && <BuyModal handleClose={() => setIsBought(false)}></BuyModal>}
+			<p onClick={() => setIsBought(true)}>Buy</p>
 		</div>
 	);
 };
