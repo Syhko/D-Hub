@@ -33,7 +33,10 @@ function chunkify(a, n, balanced) {
 
 const ProductLabel = ({ key, department, handleFilter, filter }) => {
 	return (
-		<div style={{ background: filter === department ? 'white' : 'grey' }} onClick={() => handleFilter(department)}>
+		<div
+			style={{ background: filter === department ? 'grey' : 'white', margin: '1%', padding: '3%' }}
+			onClick={() => handleFilter(department)}
+		>
 			<p>{department}</p>
 		</div>
 	);
@@ -41,7 +44,7 @@ const ProductLabel = ({ key, department, handleFilter, filter }) => {
 
 const ProductLabelList = ({ categories, handleFilter, filter }) => {
 	return chunkify(categories, 2, false).map(c => (
-		<div key={c} style={{ display: 'flex', flexDirection: 'column' }}>
+		<div key={c} style={{ display: 'flex', flexDirection: 'column', alignContent: 'center' }}>
 			{c.map((cat, index) => (
 				<ProductLabel
 					key={cat}
@@ -59,7 +62,7 @@ const ProductFilter = ({ categories, handleFilter, filter }) => {
 		<div
 			style={{
 				width: '100%',
-				height: '50%',
+				height: '100%',
 				display: 'flex',
 				flexDirection: 'row',
 				justifyContent: 'space-evenly',

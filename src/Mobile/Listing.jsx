@@ -1,7 +1,7 @@
 import React from 'react';
 import Product from './Product';
 
-const ProductList = ({ products, filter }) => {
+const ProductList = ({ products, filter, category, selectCategory }) => {
 	return products
 		.filter(product => product.department === filter)
 		.map(product => (
@@ -16,7 +16,7 @@ const ProductList = ({ products, filter }) => {
 		));
 };
 
-const Listing = ({ products, filter }) => {
+const Listing = ({ products, filter, category, selectCategory }) => {
 	return (
 		<div style={{ width: '100%' }}>
 			<ProductList products={products} filter={filter} />
