@@ -20,9 +20,7 @@ const Home = () => {
       </div>
       <div className="leaning-banner">
         <Link to="/find" className="link">
-          <div className="find-button">
-            <p>DISCOVER NOW</p>
-          </div>
+          <p>DISCOVER NOW</p>
         </Link>
       </div>
     </div>

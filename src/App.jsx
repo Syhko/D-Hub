@@ -6,6 +6,7 @@ import "./App.scss";
 import data from "./data/products.json";
 import { isMobile } from "react-device-detect";
 import MobilePage from "./Mobile/MobilePage";
+import { Link } from "react-router-dom";
 
 const App = () => {
   const [category, setCategory] = React.useState("Women");
@@ -25,7 +26,10 @@ const App = () => {
   return !isMobile ? (
     <div className="app-wrapper">
       <div className="main-banner">
-        <h1>SAVELET</h1>
+        <img src="savelet.png" className="logo-app" />
+        <Link className="app-link" to="/">
+          SAVELET
+        </Link>
         <ProductFilter
           categories={categories}
           handleFilter={selectCategory}
