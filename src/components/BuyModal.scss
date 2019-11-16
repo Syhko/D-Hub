@@ -43,6 +43,16 @@
   flex-direction: column;
   justify-content: center;
   cursor: pointer;
+  position: relative;
+}
+
+.left-choice p {
+  display: flex;
+  flex-direction: column;
+}
+
+.left-choice span {
+  color: green;
 }
 
 .left-choice:hover {
@@ -71,6 +81,15 @@
   flex-direction: column;
   justify-content: center;
   cursor: pointer;
+}
+
+.right-choice p {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-choice span {
+  color: green;
 }
 
 .right-choice:hover {

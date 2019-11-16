@@ -11,11 +11,23 @@ const BuyModal = ({ handleClose }) => {
         {!validate && (
           <>
             <div className="left-choice" onClick={() => setValidate(true)}>
-              <p>Delivery ?</p>
+              <p>
+                <span>
+                  <i class="fas fa-leaf"></i>{" "}
+                  {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+                </span>{" "}
+                Delivery ?
+              </p>
               <img src="https://s3.amazonaws.com/iconbros/icons/icon_pngs/000/000/163/original/delivery.png?1510082899" />
             </div>
             <div className="right-choice" onClick={() => setValidate(true)}>
-              <p>Pick up ?</p>
+              <p>
+                <span>
+                  <i class="fas fa-leaf"></i>{" "}
+                  {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+                </span>{" "}
+                Pick up ?
+              </p>
               <img src="https://icon-library.net/images/pick-up-icon/pick-up-icon-23.jpg" />
             </div>
           </>
