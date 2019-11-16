@@ -4,7 +4,7 @@
   position: fixed;
   top: 30%;
   left: 30%;
-  background-color: #666;
+  background-color: #aaa;
   z-index: 999;
   border-radius: 20px;
   box-shadow: 0px 0px 10px grey;
@@ -27,13 +27,67 @@
 .left-choice {
   width: 48%;
   height: 98%;
-  background-color: #222;
+  background-color: #ccc;
+  margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.left-choice:hover {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px #fff;
+}
+
+.left-choice img {
+  width: 100px;
+  height: 80px;
+  margin: auto;
+}
+
+.left-choice p {
+  font-size: 25px;
   margin: auto;
 }
 
 .right-choice {
   width: 48%;
   height: 98%;
-  background-color: #222;
+  background-color: #ccc;
   margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.right-choice:hover {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px #fff;
+}
+
+.right-choice img {
+  margin: auto;
+  width: 80px;
+  height: 80px;
+}
+
+.right-choice p {
+  font-size: 25px;
+  margin: auto;
+}
+
+.validation {
+  width: 98%;
+  height: 98%;
+  background-color: #ccc;
+  margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
 }
