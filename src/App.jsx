@@ -50,7 +50,7 @@ const App = () => {
       selectCategory={selectCategory}
       products={data}
       category={category}
-    ></MobilePage>
+    />
   );
 };
 
