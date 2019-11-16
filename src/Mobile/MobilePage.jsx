@@ -6,8 +6,16 @@ import ProductFilter from './ProductFilter';
 const MobileView = ({ categories, selectCategory, category, products }) => {
 	return (
 		<div style={{ width: window.innerWidth, height: window.innerHeight }}>
-			<div style={{ height: '10vh' }}>
-				<h1>D-HUB</h1>
+			<div
+				style={{
+					width: '100%',
+					height: '10vh',
+					padding: '1%',
+				}}
+			>
+				<div style={{ margin: 'auto', width: '10vw' }}>
+					<img src="savelet.png" style={{ width: '5vh', height: '5vh', margin: 'auto' }}></img>
+				</div>
 			</div>
 			<div
 				style={{
@@ -25,7 +33,8 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 					style={{
 						overflowY: 'scroll',
 						flex: category ? 1 : 0,
-						transition: 'flex 0.5s ease-out',
+						opacity: category ? 1 : 0,
+						transition: 'flex 0.5s ease-out,opacity 0.5 ease-out',
 					}}
 				>
 					<div
@@ -36,10 +45,14 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 							top: 0,
 							background: 'white',
 							zIndex: 1,
+							marginLeft: '2%',
+							borderBottom: '2px solid lightgrey',
 						}}
 						onClick={() => selectCategory(null)}
 					>
-						<h2>{category}</h2>
+						<div>
+							<h4>{category}</h4>
+						</div>
 					</div>
 					<div style={{ width: '100%' }}>
 						<Listing
