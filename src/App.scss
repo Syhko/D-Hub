@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.main-banner {
+  width: 100vw;
+  height: 10vh;
+  background-color: #1a346a;
+  display: flex;
+}
+
+.main-banner h1 {
+  text-align: center;
+  margin: auto 0;
+  width: 30%;
+  color: #e3e3e3;
+}
+
+.map-container {
+  width: 80vw;
+  height: 100vh;
+}
