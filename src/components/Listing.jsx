@@ -24,7 +24,6 @@ const ProductList = ({ products, filter, handleHover }) => {
 const Listing = ({ products, filter, handleHover }) => {
   return (
     <div className="listing-wrapper">
-      <BuyModal />
       <ProductList
         products={products}
         filter={filter}
