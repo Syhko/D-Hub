@@ -34,10 +34,10 @@ function chunkify(a, n, balanced) {
 const ProductLabel = ({ key, department, handleFilter, filter }) => {
 	return (
 		<div
-			style={{ background: filter === department ? 'grey' : 'white', margin: '1%', padding: '3%' }}
+			style={{ opacity: filter ? (filter === department ? 0 : 0) : 1, transition: 'opacity 0.1s ease-out' }}
 			onClick={() => handleFilter(department)}
 		>
-			<p>{department}</p>
+			<h4>{department}</h4>
 		</div>
 	);
 };
