@@ -4,7 +4,7 @@
   position: fixed;
   top: 30%;
   left: 30%;
-  background-color: #666;
+  background-color: #aaa;
   z-index: 999;
   border-radius: 20px;
   box-shadow: 0px 0px 10px grey;
@@ -27,13 +27,102 @@
 .left-choice {
   width: 48%;
   height: 98%;
-  background-color: #222;
+  background-color: #ccc;
+  margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.left-choice:hover {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px #fff;
+}
+
+.left-choice img {
+  width: 100px;
+  height: 80px;
+  margin: auto;
+}
+
+.left-choice p {
+  font-size: 25px;
   margin: auto;
 }
 
 .right-choice {
   width: 48%;
   height: 98%;
-  background-color: #222;
+  background-color: #ccc;
   margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.right-choice:hover {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px #fff;
+}
+
+.right-choice img {
+  margin: auto;
+  width: 80px;
+  height: 80px;
+}
+
+.right-choice p {
+  font-size: 25px;
+  margin: auto;
+}
+
+.validation {
+  width: 98%;
+  height: 98%;
+  background-color: #eee;
+  margin: auto;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  animation: fadein 1s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.validation h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.validation-button {
+  width: 150px;
+  height: 50px;
+  border: 2px solid rgb(70, 66, 72);
+  border-radius: 40px;
+  display: flex;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+.validation-button:hover {
+  background-color: rgb(70, 66, 72);
+  color: #fff;
+}
+
+.validation-button p {
+  margin: auto;
+  font-size: 16px;
+  font-weight: 600;
 }

@@ -1,9 +1,9 @@
 import React from "react";
 import "./Product.scss";
 
-const BuyButton = () => {
+const BuyButton = ({ handleOpen }) => {
   return (
-    <div className="buy-button">
+    <div className="buy-button" onClick={handleOpen}>
       <p>Buy</p>
     </div>
   );
@@ -17,7 +17,8 @@ const Product = ({
   originalPrice,
   newPrice,
   department,
-  handleHover
+  handleHover,
+  handleOpen
 }) => {
   return (
     <div className="product-wrapper" onClick={() => handleHover(id)}>
@@ -40,7 +41,7 @@ const Product = ({
                 <span style={{ color: "green" }}>
                   <i class="fas fa-leaf"></i>{" "}
                 </span>
-                {Math.floor(Math.random() * 50)}g CO<sub>2</sub> saved
+                {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
               </p>
             </div>
             <br />
@@ -52,7 +53,7 @@ const Product = ({
             </div>
           </div>
 
-          <BuyButton />
+          <BuyButton handleOpen={handleOpen} />
         </div>
       </div>
     </div>
