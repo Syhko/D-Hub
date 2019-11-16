@@ -29,8 +29,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: 200px;
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 .seller-info h1 {
@@ -53,21 +52,15 @@
   justify-content: space-evenly;
 }
 
-.right-wrapper-column-price {
-  display: flex;
-  flex-direction: column;
-  margin: auto 0;
-}
-
 .right-wrapper-column {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .right-wrapper-column div {
   margin: auto;
-  font-size: 1.3em;
+  font-size: 1.4em;
 }
 
 .previous-price {
@@ -91,6 +84,9 @@
 
 .buy-button:hover {
   background-color: green;
+}
+
+.buy-button:hover p {
   color: #fff;
 }
 
@@ -98,4 +94,5 @@
   margin: auto;
   font-size: 18px;
   font-weight: 600;
+  color: green;
 }

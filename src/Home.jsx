@@ -11,11 +11,9 @@ const Home = () => {
       </div>
       <div className="scroll-one">
         <p>
-          Return systems today are so expensive that this could in many cases
-          save retailers across the globe billions of dollars and considerably
-          shorten lead times in urban areas. The savings would be redistributed
-          to the customers to reward them for their proactive and sustainable
-          approach.
+          Come discover products nearby that need to be returned to the company.
+          Instead of shipping them back, they’re shipped to you directly, at a
+          rebate!
         </p>
       </div>
       <div className="leaning-banner">

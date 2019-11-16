@@ -2,6 +2,7 @@ import React from "react";
 import "./Listing.scss";
 import Product from "./Product";
 import BuyModal from "./BuyModal";
+import CheckMark from "./CheckMark";
 
 const ProductList = ({ products, filter, handleHover, handleOpen }) => {
   return products

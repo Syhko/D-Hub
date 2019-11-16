@@ -1,5 +1,6 @@
 import React from 'react';
 import './BuyModal.scss';
+import CheckMark from './CheckMark';
 
 const BuyModal = ({ handleClose }) => {
 	const [validate, setValidate] = React.useState(false);
@@ -21,6 +22,7 @@ const BuyModal = ({ handleClose }) => {
 				)}
 				{validate && (
 					<div className="validation">
+						<CheckMark />
 						<h2>
 							Thanks for your purchase
 							<br />

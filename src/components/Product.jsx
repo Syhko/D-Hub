@@ -27,13 +27,30 @@ const Product = ({
         <div className="seller-info">
           <h1>{shopName}</h1>
           <h2>{productName}</h2>
+          <p style={{ fontSize: "1.2em", textAlign: "left" }}>
+            <i class="fas fa-clock"></i> {Math.floor(Math.random() * 50)} hours
+            left
+          </p>
         </div>
       </div>
       <div className="right-wrapper">
         <div className="right-wrapper-column">
           <div className="right-wrapper-column-price">
-            <div className="previous-price">{Math.floor(originalPrice)} €</div>
-            <div className="new-price">{Math.floor(newPrice)} €</div>
+            <div>
+              <p style={{ fontSize: "0.7em" }}>
+                <span style={{ color: "green" }}>
+                  <i class="fas fa-leaf"></i>{" "}
+                </span>
+                {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+              </p>
+            </div>
+            <br />
+            <div>
+              <span className="previous-price">
+                {Math.floor(originalPrice)}{" "}
+              </span>{" "}
+              {Math.floor(newPrice)} €
+            </div>
           </div>
 
           <BuyButton handleOpen={handleOpen} />
