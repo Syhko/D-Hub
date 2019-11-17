@@ -5,7 +5,15 @@ import ProductFilter from './ProductFilter';
 
 const MobileView = ({ categories, selectCategory, category, products }) => {
 	return (
-		<div style={{ width: '100vw', height: '100vh', overflowY: 'clip' }}>
+		<div
+			style={{
+				width: '100vw',
+				height: '100vh',
+				overflowY: 'hidden',
+				position: 'fixed',
+				top: 0,
+			}}
+		>
 			<div
 				style={{
 					width: '100%',
@@ -19,6 +27,7 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 			</div>
 			<div
 				style={{
+					width: '100%',
 					display: 'flex',
 					height: '89vh',
 					flexDirection: 'column',
@@ -26,7 +35,14 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 					overlow: 'hidden',
 				}}
 			>
-				<div style={{ overflow: 'hidden', flex: category ? 0 : 1, transition: 'flex 0.5s ease-out' }}>
+				<div
+					style={{
+						overflow: 'hidden',
+						flex: category ? 0 : 1,
+						transition: 'flex 0.5s ease-out',
+						width: '100%',
+					}}
+				>
 					<ProductFilter categories={categories} handleFilter={selectCategory} filter={category} />
 				</div>
 				<div
