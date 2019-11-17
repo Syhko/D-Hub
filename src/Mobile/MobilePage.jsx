@@ -5,7 +5,7 @@ import ProductFilter from './ProductFilter';
 
 const MobileView = ({ categories, selectCategory, category, products }) => {
 	return (
-		<div style={{ width: '100vw', height: '100vh', overflowY: 'hidden' }}>
+		<div style={{ width: '100vw', height: '100vh', overflowY: 'clip' }}>
 			<div
 				style={{
 					width: '100%',
@@ -20,10 +20,10 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 			<div
 				style={{
 					display: 'flex',
-					height: '90vh',
+					height: '89vh',
 					flexDirection: 'column',
-
 					justifyContent: 'flex-start',
+					overlow: 'hidden',
 				}}
 			>
 				<div style={{ overflow: 'hidden', flex: category ? 0 : 1, transition: 'flex 0.5s ease-out' }}>
@@ -31,7 +31,7 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 				</div>
 				<div
 					style={{
-						overflowY: 'scroll',
+						overflow: 'hidden',
 						flex: category ? 1 : 0,
 						opacity: category ? 1 : 0,
 						transition: 'flex 0.5s ease-out,opacity 0.5 ease-out',
@@ -41,12 +41,10 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 						style={{
 							width: '100%',
 							height: '5vh',
-							position: 'fixed',
 							background: 'white',
 							zIndex: 1,
 							marginLeft: '2%',
 							borderBottom: '2px solid lightgrey',
-							top: '6vh',
 							opacity: category ? 1 : 0,
 							transition: 'opacity 0.5s ease-in',
 						}}
@@ -56,7 +54,7 @@ const MobileView = ({ categories, selectCategory, category, products }) => {
 							<h4>☰ {category}</h4>
 						</div>
 					</div>
-					<div style={{ width: '100%' }}>
+					<div style={{ width: '100%', overflowY: 'scroll', height: '150vh' }}>
 						<Listing
 							selectCategory={selectCategory}
 							category={category}

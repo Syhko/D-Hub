@@ -17,11 +17,7 @@ const ProductList = ({ products, filter, category, selectCategory }) => {
 };
 
 const Listing = ({ products, filter, category, selectCategory }) => {
-	return (
-		<div style={{ width: '100%' }}>
-			<ProductList products={products} filter={filter} />
-		</div>
-	);
+	return <ProductList products={products} filter={filter} />;
 };
 
 export default Listing;
