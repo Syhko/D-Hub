@@ -5,7 +5,7 @@ import ProductFilter from './ProductFilter';
 
 const MobileView = ({ categories, selectCategory, category, products }) => {
 	return (
-		<div style={{ width: window.innerWidth, height: window.innerHeight, overflow: 'clip' }}>
+		<div style={{ width: '100vw', height: '100vh', overflowY: 'hidden' }}>
 			<div
 				style={{
 					width: '100%',

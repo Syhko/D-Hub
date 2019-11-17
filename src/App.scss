@@ -1,39 +1,37 @@
 .app-wrapper {
-  text-align: center;
-  width: 100vw;
-  height: 100vh;
+	text-align: center;
 }
 
 .logo-app {
-  width: 50px;
-  position: absolute;
-  top: 1%;
-  left: 1%;
+	width: 50px;
+	position: absolute;
+	top: 1%;
+	left: 1%;
 }
 
 .main-banner {
-  width: 100vw;
-  height: 20vh;
-  display: flex;
-  flex-direction: column;
+	width: 100vw;
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
 }
 
 .app-link {
-  text-align: center;
-  margin: auto 0;
-  width: 30%;
-  color: #a3a3a3;
-  font-weight: 800;
-  font-style: italic;
-  font-size: 46px;
+	text-align: center;
+	margin: auto 0;
+	width: 30%;
+	color: #a3a3a3;
+	font-weight: 800;
+	font-style: italic;
+	font-size: 46px;
 }
 
 .app-link:hover {
-  text-decoration: none;
-  color: #a3a3a3;
+	text-decoration: none;
+	color: #a3a3a3;
 }
 
 .body-wrapper {
-  display: flex;
-  flex-direction: row;
+	display: flex;
+	flex-direction: row;
 }
