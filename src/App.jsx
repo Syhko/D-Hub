@@ -24,7 +24,7 @@ const App = () => {
 		imageUrl: product.imageUrl,
 	}));
 	return !isMobile ? (
-		<div className="app-wrapper" style={{ width: window.viewWidth, heihgt: window.viewHeight }}>
+		<div className="app-wrapper">
 			<div className="main-banner">
 				<img src="savelet.png" className="logo-app" />
 				<Link className="app-link" to="/">
