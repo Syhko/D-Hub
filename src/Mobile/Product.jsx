@@ -5,7 +5,7 @@ const BuyButton = () => {
 	const [isBought, setIsBought] = React.useState(false);
 	return (
 		<div className="buy-button" style={{ borderColor: 'black' }}>
-			{isBought && <BuyModal product={55} handleClose={() => setIsBought(false)}></BuyModal>}
+			{isBought && <BuyModal product={{ CO2: 69 }} handleClose={() => setIsBought(false)}></BuyModal>}
 			<p onClick={() => setIsBought(true)}>Buy</p>
 		</div>
 	);
