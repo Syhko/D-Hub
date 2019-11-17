@@ -38,7 +38,7 @@ const BuyModal = ({ handleClose, product: { CO2 } }) => {
               Thanks for your purchase
               <br />
               <br />
-              Your package should arrive under 7 days
+              Check your email for more informations
             </h2>
             <div className="validation-button" onClick={handleClose}>
               <p>Back to store</p>
