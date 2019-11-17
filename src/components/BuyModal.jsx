@@ -2,7 +2,7 @@ import React from "react";
 import "./BuyModal.scss";
 import CheckMark from "./CheckMark";
 
-const BuyModal = ({ handleClose }) => {
+const BuyModal = ({ handleClose, product: { CO2 } }) => {
   const [validate, setValidate] = React.useState(false);
   return (
     <>
@@ -13,8 +13,8 @@ const BuyModal = ({ handleClose }) => {
             <div className="left-choice" onClick={() => setValidate(true)}>
               <p>
                 <span>
-                  <i class="fas fa-leaf"></i>{" "}
-                  {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+                  <i class="fas fa-leaf"></i> {Math.floor(CO2 / 3)}g CO
+                  <sub>2</sub> saved
                 </span>{" "}
                 Delivery ?
               </p>
@@ -23,8 +23,7 @@ const BuyModal = ({ handleClose }) => {
             <div className="right-choice" onClick={() => setValidate(true)}>
               <p>
                 <span>
-                  <i class="fas fa-leaf"></i>{" "}
-                  {Math.floor(Math.random() * 50) + 50}g CO<sub>2</sub> saved
+                  <i class="fas fa-leaf"></i> {CO2}g CO<sub>2</sub> saved
                 </span>{" "}
                 Pick up ?
               </p>

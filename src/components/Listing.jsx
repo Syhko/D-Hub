@@ -26,15 +26,15 @@ const ProductList = ({ products, filter, handleHover, handleOpen }) => {
 };
 
 const Listing = ({ products, filter, handleHover, handleOpen }) => {
-  const [modal, setModal] = React.useState(false);
+  const [modal, setModal] = React.useState(null);
   return (
     <div className="listing-wrapper">
-      {modal && <BuyModal handleClose={() => setModal(false)} />}
+      {modal && <BuyModal handleClose={() => setModal(null)} product={modal} />}
       <ProductList
         products={products}
         filter={filter}
         handleHover={id => handleHover(id)}
-        handleOpen={() => setModal(true)}
+        handleOpen={setModal}
       />
     </div>
   );
